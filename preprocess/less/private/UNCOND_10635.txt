@@ -1,0 +1,1 @@
+-0.3 Self-emp-not-inc -1.279361986485305 HS-grad -0.3333333333333333 Never-married Craft-repair Unmarried White Male 0.0 0.0 2.0 United-States <=50K

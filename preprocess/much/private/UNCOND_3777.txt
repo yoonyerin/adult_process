@@ -1,0 +1,1 @@
+-0.15 Private -0.0045673507284029 Assoc-voc 0.3333333333333333 Married-civ-spouse Exec-managerial Wife White Female 0.0 0.0 0.0 Puerto-Rico >50K

@@ -1,0 +1,1 @@
+0.2 Private -0.9844868287930452 Assoc-voc 0.3333333333333333 Married-civ-spouse Sales Husband White Male 0.0 0.0 4.6 United-States <=50K

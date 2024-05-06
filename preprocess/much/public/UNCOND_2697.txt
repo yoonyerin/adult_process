@@ -1,0 +1,1 @@
+0.95 Self-emp-not-inc -0.1333524853965517 5th-6th -2.333333333333333 Married-civ-spouse Exec-managerial Husband White Male 0.0 1887.0 5.4 United-States >50K

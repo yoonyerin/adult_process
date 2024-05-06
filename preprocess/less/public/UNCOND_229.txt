@@ -1,0 +1,1 @@
+0.5 Self-emp-not-inc -0.1267408600941781 Bachelors 1.0 Divorced Exec-managerial Not-in-family Asian-Pac-Islander Male 0.0 0.0 4.0 Japan <=50K

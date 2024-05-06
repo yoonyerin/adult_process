@@ -1,0 +1,1 @@
+1.45 nan -0.9916480350399488 10th -1.3333333333333333 Married-civ-spouse nan Wife White Female 0.0 0.0 0.0 United-States <=50K

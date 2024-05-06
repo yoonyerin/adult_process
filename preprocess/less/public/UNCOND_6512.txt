@@ -1,0 +1,1 @@
+-0.2 State-gov -0.7703501080426175 Some-college 0.0 Married-civ-spouse Adm-clerical Wife White Female 0.0 0.0 0.0 United-States <=50K

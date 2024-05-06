@@ -1,0 +1,1 @@
+-0.5 State-gov 2.110827993654838 Prof-school 1.6666666666666667 Never-married Prof-specialty Not-in-family White Male 0.0 0.0 6.0 United-States <=50K

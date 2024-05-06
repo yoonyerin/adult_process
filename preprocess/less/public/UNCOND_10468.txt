@@ -1,0 +1,1 @@
+1.25 Self-emp-inc -0.4529504586086442 Some-college 0.0 Married-civ-spouse Craft-repair Husband White Male 0.0 0.0 10.0 United-States <=50K

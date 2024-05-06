@@ -1,0 +1,1 @@
+-0.1 Self-emp-inc 0.0795102068006478 Assoc-acdm 0.6666666666666666 Married-civ-spouse Craft-repair Husband White Male 0.0 0.0 8.0 United-States >50K

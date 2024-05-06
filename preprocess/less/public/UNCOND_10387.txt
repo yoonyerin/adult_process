@@ -1,0 +1,1 @@
+-0.5 Local-gov 0.377916005712311 Assoc-voc 0.3333333333333333 Never-married Adm-clerical Own-child White Male 0.0 0.0 0.6 United-States <=50K

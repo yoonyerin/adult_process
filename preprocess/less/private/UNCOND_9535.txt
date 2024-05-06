@@ -1,0 +1,1 @@
+-0.8 Private 0.96446043225374 Some-college 0.0 Married-spouse-absent Sales Own-child Black Female 0.0 0.0 -4.0 United-States <=50K

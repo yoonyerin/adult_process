@@ -1,0 +1,1 @@
+-0.05 Private -0.3579145901250297 HS-grad -0.3333333333333333 Never-married Sales Own-child White Male 0.0 0.0 1.0 nan <=50K

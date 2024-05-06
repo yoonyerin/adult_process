@@ -1,0 +1,1 @@
+-0.3 State-gov -0.704092296290745 HS-grad -0.3333333333333333 Divorced Protective-serv Own-child Other Male 0.0 0.0 0.0 United-States <=50K

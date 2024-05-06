@@ -1,0 +1,1 @@
+-0.75 nan 0.2736954738678424 Some-college 0.0 Never-married nan Own-child White Female 0.0 0.0 0.0 Mexico <=50K

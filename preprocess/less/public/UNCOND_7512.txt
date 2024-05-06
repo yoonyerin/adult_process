@@ -1,0 +1,1 @@
+-0.3 Local-gov -0.2893835117389657 Some-college 0.0 Divorced Adm-clerical Not-in-family White Female 0.0 0.0 -1.0 United-States <=50K

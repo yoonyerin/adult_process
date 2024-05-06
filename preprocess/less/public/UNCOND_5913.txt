@@ -1,0 +1,1 @@
+1.15 nan -0.6314726687567397 Assoc-acdm 0.6666666666666666 Divorced nan Not-in-family White Female 0.0 0.0 1.0 Canada <=50K

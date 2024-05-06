@@ -1,0 +1,1 @@
+-0.3 Self-emp-not-inc -1.2076416732241666 Masters 1.3333333333333333 Never-married Prof-specialty Not-in-family White Male 0.0 0.0 1.0 England <=50K

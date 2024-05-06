@@ -1,0 +1,1 @@
+-0.1 Private 0.2722882135704858 Assoc-acdm 0.6666666666666666 Married-civ-spouse Exec-managerial Husband White Male 0.0 0.0 0.0 Puerto-Rico <=50K

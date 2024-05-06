@@ -1,0 +1,1 @@
+0.0 Self-emp-inc -0.6674785476074493 Assoc-acdm 0.6666666666666666 Married-civ-spouse Sales Husband White Male 0.0 0.0 5.6 United-States <=50K

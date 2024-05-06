@@ -1,0 +1,1 @@
+0.4 Private 0.1975202241624095 Bachelors 1.0 Married-spouse-absent Exec-managerial Unmarried White Male 0.0 0.0 0.0 United-States <=50K

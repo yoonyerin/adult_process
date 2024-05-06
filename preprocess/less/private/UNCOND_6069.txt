@@ -1,0 +1,1 @@
+0.6 State-gov -0.1969456622658556 HS-grad -0.3333333333333333 Divorced Exec-managerial Unmarried White Female 0.0 0.0 0.8 United-States <=50K

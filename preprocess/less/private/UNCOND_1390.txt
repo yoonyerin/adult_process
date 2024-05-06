@@ -1,0 +1,1 @@
+1.45 Self-emp-not-inc -0.0152342172426857 Bachelors 1.0 Divorced Sales Not-in-family White Male 401.0 0.0 -4.0 United-States <=50K

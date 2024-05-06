@@ -1,0 +1,1 @@
+0.15 Self-emp-inc -0.6292576910106045 Masters 1.3333333333333333 Married-civ-spouse Prof-specialty Husband Black Male 0.0 0.0 3.0 Trinadad&Tobago <=50K

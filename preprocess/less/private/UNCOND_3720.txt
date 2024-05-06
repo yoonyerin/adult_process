@@ -1,0 +1,1 @@
+0.25 State-gov -1.0190604663943743 Assoc-acdm 0.6666666666666666 Divorced Prof-specialty Not-in-family Black Male 0.0 0.0 0.0 United-States <=50K

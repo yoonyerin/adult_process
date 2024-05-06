@@ -1,0 +1,1 @@
+-0.6 Self-emp-not-inc 0.1137341110736396 Assoc-acdm 0.6666666666666666 Never-married Sales Not-in-family White Male 0.0 0.0 2.0 United-States <=50K

@@ -1,0 +1,1 @@
+0.8 Federal-gov -0.0896358193544089 HS-grad -0.3333333333333333 Married-civ-spouse Transport-moving Husband White Male 0.0 1740.0 2.0 United-States <=50K

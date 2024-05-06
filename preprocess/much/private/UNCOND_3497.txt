@@ -1,0 +1,1 @@
+0.8 Self-emp-inc 0.4580215918695328 Assoc-acdm 0.6666666666666666 Married-civ-spouse Transport-moving Husband White Male 0.0 0.0 1.0 United-States >50K

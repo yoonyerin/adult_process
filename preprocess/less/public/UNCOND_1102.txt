@@ -1,0 +1,1 @@
+0.0 Local-gov -1.19884837811169 HS-grad -0.3333333333333333 Married-civ-spouse Other-service Wife White Female 0.0 0.0 -3.0 United-States <=50K

@@ -1,0 +1,1 @@
+-0.6 Private 1.0675818022091488 Assoc-voc 0.3333333333333333 Married-civ-spouse Tech-support Husband White Male 0.0 0.0 0.0 Mexico <=50K

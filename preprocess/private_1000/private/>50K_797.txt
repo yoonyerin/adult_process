@@ -1,0 +1,1 @@
+1.2 Self-emp-not-inc 2.7106872676251026 Some-college 0.0 Married-civ-spouse Sales Husband Black Male 0.0 0.0 4.0 United-States

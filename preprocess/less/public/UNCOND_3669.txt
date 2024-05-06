@@ -1,0 +1,1 @@
+0.05 Private 0.2722882135704858 Some-college 0.0 Married-civ-spouse Craft-repair Husband White Male 0.0 2042.0 0.0 Columbia <=50K

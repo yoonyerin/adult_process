@@ -1,0 +1,1 @@
+-0.65 Private -0.1374493615285011 HS-grad -0.3333333333333333 Married-civ-spouse Machine-op-inspct Not-in-family White Female 0.0 0.0 0.0 Ecuador <=50K

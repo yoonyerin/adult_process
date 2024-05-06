@@ -1,0 +1,1 @@
+1.55 Local-gov 0.2044649288251042 Prof-school 1.6666666666666667 Married-civ-spouse Prof-specialty Husband White Male 6418.0 0.0 -1.0 United-States >50K

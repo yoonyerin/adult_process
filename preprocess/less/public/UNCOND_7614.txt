@@ -1,0 +1,1 @@
+-0.85 nan -1.2014547241062024 Some-college 0.0 Never-married nan Not-in-family Amer-Indian-Eskimo Female 0.0 0.0 -2.4 United-States <=50K

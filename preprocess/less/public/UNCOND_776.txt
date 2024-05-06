@@ -1,0 +1,1 @@
+1.4 Local-gov 0.6350865798162235 Some-college 0.0 Divorced Exec-managerial Not-in-family White Female 0.0 0.0 0.0 United-States <=50K

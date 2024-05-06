@@ -1,0 +1,1 @@
+0.65 nan -0.1843302814936944 11th -1.0 Married-civ-spouse nan Own-child Black Female 0.0 0.0 0.0 United-States <=50K

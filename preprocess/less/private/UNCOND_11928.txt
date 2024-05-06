@@ -1,0 +1,1 @@
+-0.1 Private -0.4501109570619069 Assoc-voc 0.3333333333333333 Married-civ-spouse Transport-moving Husband White Male 0.0 0.0 11.8 United-States <=50K

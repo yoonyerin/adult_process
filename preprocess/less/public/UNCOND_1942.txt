@@ -1,0 +1,1 @@
+0.4 Private -1.260401443899027 HS-grad -0.3333333333333333 Married-civ-spouse Prof-specialty Husband Amer-Indian-Eskimo Male 0.0 0.0 -6.4 United-States <=50K

@@ -1,0 +1,1 @@
+0.85 Private -0.252153566239076 Assoc-voc 0.3333333333333333 Married-civ-spouse Craft-repair Husband Asian-Pac-Islander Male 5013.0 0.0 0.0 Vietnam <=50K

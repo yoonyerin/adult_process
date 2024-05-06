@@ -1,0 +1,1 @@
+0.25 Private -1.2805277642464288 Some-college 0.0 Married-civ-spouse Other-service Wife Black Female 0.0 0.0 -2.0 United-States <=50K

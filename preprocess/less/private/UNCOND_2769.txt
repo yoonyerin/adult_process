@@ -1,0 +1,1 @@
+0.35 Self-emp-inc -0.6203727990740394 HS-grad -0.3333333333333333 Married-civ-spouse Exec-managerial Husband White Male 5013.0 0.0 4.0 Greece <=50K

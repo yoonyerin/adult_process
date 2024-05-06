@@ -1,0 +1,1 @@
+1.8 nan -0.6561288684045082 Bachelors 1.0 Widowed nan Not-in-family White Female 0.0 0.0 -5.0 United-States <=50K

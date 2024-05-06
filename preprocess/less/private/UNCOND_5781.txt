@@ -1,0 +1,1 @@
+-0.55 nan -1.153324756539805 Some-college 0.0 Never-married nan Not-in-family White Male 0.0 0.0 4.0 United-States <=50K

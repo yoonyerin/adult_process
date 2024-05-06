@@ -1,0 +1,1 @@
+1.8 Private -0.8348675801368124 HS-grad -0.3333333333333333 Married-civ-spouse Farming-fishing Husband Asian-Pac-Islander Male 0.0 0.0 0.0 Philippines <=50K

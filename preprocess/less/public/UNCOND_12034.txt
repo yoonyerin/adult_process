@@ -1,0 +1,1 @@
+-0.05 Self-emp-inc 1.3404071062481524 Assoc-voc 0.3333333333333333 Divorced Exec-managerial Not-in-family White Female 0.0 0.0 0.0 nan <=50K

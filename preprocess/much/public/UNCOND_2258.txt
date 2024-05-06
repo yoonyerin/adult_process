@@ -1,0 +1,1 @@
+0.45 Self-emp-inc 1.1822610259676996 HS-grad -0.3333333333333333 Married-civ-spouse Exec-managerial Wife Amer-Indian-Eskimo Female 15024.0 0.0 0.0 United-States >50K

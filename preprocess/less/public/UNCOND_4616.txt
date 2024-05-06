@@ -1,0 +1,1 @@
+0.0 Private 0.0670030768205909 HS-grad -0.3333333333333333 Married-civ-spouse Machine-op-inspct Husband White Male 0.0 0.0 1.2 United-States <=50K

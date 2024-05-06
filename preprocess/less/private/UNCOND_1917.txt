@@ -1,0 +1,1 @@
+0.25 Private -0.3290033016491592 HS-grad -0.3333333333333333 Married-civ-spouse Sales Husband White Male 0.0 0.0 0.0 United-States <=50K

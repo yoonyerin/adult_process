@@ -1,0 +1,1 @@
+-0.85 Self-emp-inc 0.561792466577568 Some-college 0.0 Never-married Craft-repair Own-child White Male 0.0 0.0 -4.0 United-States <=50K

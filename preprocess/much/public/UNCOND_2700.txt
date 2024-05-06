@@ -1,0 +1,1 @@
+0.0 Self-emp-inc 0.6590849477273579 Some-college 0.0 Married-civ-spouse Exec-managerial Husband Asian-Pac-Islander Male 0.0 0.0 7.0 Thailand >50K

@@ -1,0 +1,1 @@
+0.1 Local-gov -0.1237931077553365 Some-college 0.0 Never-married Adm-clerical Not-in-family White Female 2202.0 0.0 0.8 United-States <=50K

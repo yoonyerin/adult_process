@@ -1,0 +1,1 @@
+-0.9 Private -0.2660929374685136 HS-grad -0.3333333333333333 Never-married Sales Other-relative Amer-Indian-Eskimo Female 0.0 0.0 7.6 United-States <=50K

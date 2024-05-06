@@ -1,0 +1,1 @@
+-0.1 Private 0.2919732037654621 Assoc-voc 0.3333333333333333 Married-civ-spouse Tech-support Husband Black Male 0.0 0.0 -0.4 Jamaica <=50K

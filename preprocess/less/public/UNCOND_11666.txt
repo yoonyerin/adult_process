@@ -1,0 +1,1 @@
+0.65 Private 0.2433352901745752 Some-college 0.0 Married-spouse-absent Other-service Not-in-family White Female 0.0 0.0 0.0 Cuba <=50K

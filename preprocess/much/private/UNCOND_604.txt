@@ -1,0 +1,1 @@
+0.15 Self-emp-not-inc 0.8873359063713918 Prof-school 1.6666666666666667 Married-civ-spouse Prof-specialty Husband Amer-Indian-Eskimo Male 0.0 1977.0 4.0 United-States >50K

@@ -1,0 +1,1 @@
+1.25 Self-emp-not-inc 0.556313311100286 Some-college 0.0 Widowed Exec-managerial Not-in-family White Female 0.0 0.0 -4.0 United-States <=50K

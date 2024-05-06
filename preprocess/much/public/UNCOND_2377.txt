@@ -1,0 +1,1 @@
+-0.2 State-gov -0.1285644695919361 Some-college 0.0 Divorced Other-service Unmarried White Female 0.0 0.0 11.8 United-States >50K

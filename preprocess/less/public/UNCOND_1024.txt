@@ -1,0 +1,1 @@
+-0.5 Local-gov 0.1363168917034095 Assoc-acdm 0.6666666666666666 Never-married Prof-specialty Own-child Black Female 0.0 0.0 -0.6 United-States <=50K

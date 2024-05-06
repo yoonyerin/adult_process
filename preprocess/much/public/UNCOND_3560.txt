@@ -1,0 +1,1 @@
+-0.6 Local-gov 1.3000295607932284 Some-college 0.0 Married-civ-spouse Exec-managerial Husband White Male 0.0 0.0 0.0 United-States >50K

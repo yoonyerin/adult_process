@@ -1,0 +1,1 @@
+0.15 Self-emp-inc 0.259797737558445 HS-grad -0.3333333333333333 Divorced Adm-clerical Unmarried White Female 0.0 0.0 -5.0 nan <=50K

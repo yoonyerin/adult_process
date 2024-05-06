@@ -1,0 +1,1 @@
+1.25 Private -0.2945712227759666 Some-college 0.0 Married-civ-spouse Protective-serv Husband White Male 0.0 0.0 0.0 United-States <=50K

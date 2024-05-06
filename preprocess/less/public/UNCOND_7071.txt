@@ -1,0 +1,1 @@
+-0.15 State-gov -0.6226377387242228 Assoc-voc 0.3333333333333333 Never-married Adm-clerical Unmarried White Female 0.0 0.0 0.0 United-States <=50K

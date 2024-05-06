@@ -1,0 +1,1 @@
+-0.05 Federal-gov 0.4647331409800027 Bachelors 1.0 Married-civ-spouse Exec-managerial Husband Amer-Indian-Eskimo Male 0.0 0.0 0.0 United-States <=50K

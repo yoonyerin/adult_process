@@ -1,0 +1,1 @@
+-0.05 Local-gov 1.2042942256529396 Some-college 0.0 Married-civ-spouse Prof-specialty Husband Black Male 0.0 1887.0 0.0 Jamaica

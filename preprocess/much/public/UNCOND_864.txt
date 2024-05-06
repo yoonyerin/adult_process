@@ -1,0 +1,1 @@
+0.05 Self-emp-not-inc 0.136475104399562 Masters 1.3333333333333333 Married-civ-spouse Prof-specialty Husband Black Male 99999.0 0.0 4.0 United-States >50K

@@ -1,0 +1,1 @@
+-0.25 State-gov 0.0973715874978662 Some-college 0.0 Divorced Prof-specialty Other-relative White Female 0.0 0.0 0.0 United-States <=50K

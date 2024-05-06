@@ -1,0 +1,1 @@
+0.65 State-gov -1.100689890625065 Bachelors 1.0 Married-spouse-absent Prof-specialty Not-in-family White Male 6849.0 0.0 0.0 United-States <=50K

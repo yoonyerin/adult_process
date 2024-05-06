@@ -1,0 +1,1 @@
+-0.15 Self-emp-not-inc 0.7178401468879979 HS-grad -0.3333333333333333 Married-civ-spouse Farming-fishing Husband White Male 0.0 0.0 0.0 Mexico <=50K

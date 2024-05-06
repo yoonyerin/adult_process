@@ -1,0 +1,1 @@
+0.9 Local-gov -1.009476107801135 HS-grad -0.3333333333333333 Divorced Exec-managerial Unmarried Amer-Indian-Eskimo Male 0.0 0.0 -6.4 United-States <=50K

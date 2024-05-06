@@ -1,0 +1,1 @@
+0.15 Local-gov 0.5304830067073856 Prof-school 1.6666666666666667 Married-civ-spouse Exec-managerial Husband White Male 0.0 0.0 2.0 United-States >50K

@@ -1,0 +1,1 @@
+-0.25 Self-emp-not-inc 0.1477748216984549 HS-grad -0.3333333333333333 Never-married Craft-repair Unmarried White Male 0.0 0.0 0.0 Iran <=50K

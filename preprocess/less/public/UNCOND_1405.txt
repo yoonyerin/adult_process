@@ -1,0 +1,1 @@
+0.25 State-gov 0.1186803395744078 Some-college 0.0 Divorced Adm-clerical Own-child White Female 0.0 0.0 -0.4 United-States <=50K

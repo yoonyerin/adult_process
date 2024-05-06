@@ -1,0 +1,1 @@
+1.55 Self-emp-inc 2.7247598705986684 Bachelors 1.0 Separated Sales Unmarried White Male 0.0 0.0 6.0 Canada <=50K

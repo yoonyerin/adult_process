@@ -1,0 +1,1 @@
+0.4 Self-emp-inc -0.2354829442550055 Bachelors 1.0 Married-civ-spouse Machine-op-inspct Husband White Male 0.0 0.0 4.0 United-States >50K

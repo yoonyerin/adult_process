@@ -1,0 +1,1 @@
+1.55 Self-emp-not-inc -0.2268312078706653 HS-grad -0.3333333333333333 Widowed Craft-repair Not-in-family White Female 0.0 0.0 -1.0 United-States <=50K

@@ -1,0 +1,1 @@
+-0.05 nan -0.0014197507733686 11th -1.0 Married-civ-spouse nan Husband White Male 0.0 0.0 0.0 United-States <=50K

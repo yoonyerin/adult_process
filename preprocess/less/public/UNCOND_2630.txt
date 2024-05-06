@@ -1,0 +1,1 @@
+0.3 Private -0.0297231694166531 Some-college 0.0 Divorced Prof-specialty Unmarried White Male 0.0 0.0 1.0 United-States <=50K

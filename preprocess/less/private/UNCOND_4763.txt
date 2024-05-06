@@ -1,0 +1,1 @@
+0.95 Self-emp-not-inc 1.4815578121682218 Masters 1.3333333333333333 Never-married Sales Not-in-family White Male 0.0 0.0 -4.8 United-States <=50K

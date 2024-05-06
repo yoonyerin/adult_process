@@ -1,0 +1,1 @@
+1.0 Local-gov -0.2467743345698904 Bachelors 1.0 Married-civ-spouse Prof-specialty Husband Asian-Pac-Islander Male 0.0 0.0 -1.0 India <=50K

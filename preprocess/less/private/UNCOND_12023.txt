@@ -1,0 +1,1 @@
+-0.85 nan -0.9280382042026288 Some-college 0.0 Never-married nan Own-child Other Female 594.0 0.0 -1.0 United-States <=50K

@@ -1,0 +1,1 @@
+-0.25 Private 0.1052489143694599 Some-college 0.0 Divorced Machine-op-inspct Unmarried Amer-Indian-Eskimo Male 0.0 0.0 0.0 United-States <=50K

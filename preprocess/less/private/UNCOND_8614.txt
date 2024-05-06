@@ -1,0 +1,1 @@
+-0.4 State-gov 0.1774105577830237 Some-college 0.0 Divorced Adm-clerical Unmarried Black Male 0.0 0.0 0.0 United-States <=50K

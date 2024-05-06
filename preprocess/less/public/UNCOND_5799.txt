@@ -1,0 +1,1 @@
+-0.5 nan -0.3729281422915027 Bachelors 1.0 Married-spouse-absent nan Not-in-family White Male 0.0 0.0 2.0 nan <=50K

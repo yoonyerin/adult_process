@@ -1,0 +1,1 @@
+-0.4 nan 0.4070354687883822 HS-grad -0.3333333333333333 Never-married nan Unmarried Black Male 0.0 0.0 0.0 United-States

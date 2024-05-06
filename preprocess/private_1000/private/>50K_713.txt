@@ -1,0 +1,1 @@
+1.1 Self-emp-inc -0.4425334016146022 Bachelors 1.0 Married-civ-spouse Exec-managerial Husband White Male 0.0 0.0 0.0 England

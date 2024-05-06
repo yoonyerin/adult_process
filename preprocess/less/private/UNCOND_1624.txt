@@ -1,0 +1,1 @@
+1.2 nan 0.0790355687121903 Bachelors 1.0 Divorced nan Unmarried White Female 0.0 0.0 0.0 United-States <=50K

@@ -1,0 +1,1 @@
+0.4 Self-emp-not-inc -0.5308327400357228 Bachelors 1.0 Divorced Prof-specialty Not-in-family White Male 0.0 0.0 -1.0 United-States <=50K

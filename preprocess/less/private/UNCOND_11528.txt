@@ -1,0 +1,1 @@
+1.2 Self-emp-not-inc 0.3513779076787283 7th-8th -2.0 Married-civ-spouse Transport-moving Husband White Male 0.0 0.0 -2.0 United-States <=50K

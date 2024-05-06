@@ -1,0 +1,1 @@
+0.25 Local-gov 0.7138431945641448 HS-grad -0.3333333333333333 Married-civ-spouse Adm-clerical Husband White Male 0.0 0.0 -6.4 United-States <=50K

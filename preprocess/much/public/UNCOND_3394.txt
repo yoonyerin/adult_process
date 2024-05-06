@@ -1,0 +1,1 @@
+0.55 Self-emp-not-inc 1.627604784685011 Some-college 0.0 Divorced Sales Unmarried White Male 0.0 0.0 5.0 United-States >50K

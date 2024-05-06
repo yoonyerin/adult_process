@@ -1,0 +1,1 @@
+0.2 Federal-gov -1.2045606891411964 Some-college 0.0 Divorced Adm-clerical Other-relative Amer-Indian-Eskimo Female 0.0 0.0 -0.4 United-States <=50K

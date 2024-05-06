@@ -1,0 +1,1 @@
+0.35 Local-gov 0.2059054970584929 Some-college 0.0 Divorced Prof-specialty Unmarried White Female 0.0 0.0 -3.0 United-States <=50K

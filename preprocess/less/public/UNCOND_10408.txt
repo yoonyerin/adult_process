@@ -1,0 +1,1 @@
+0.2 nan -0.2103770874708035 HS-grad -0.3333333333333333 Divorced nan Not-in-family Black Female 0.0 0.0 -2.4 United-States <=50K

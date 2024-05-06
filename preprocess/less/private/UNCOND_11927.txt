@@ -1,0 +1,1 @@
+0.5 Local-gov -0.1294804378328191 Some-college 0.0 Married-spouse-absent Craft-repair Other-relative White Male 0.0 0.0 1.0 United-States <=50K

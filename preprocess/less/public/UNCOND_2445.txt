@@ -1,0 +1,1 @@
+-0.2 Federal-gov 0.9609797529383844 Some-college 0.0 Married-civ-spouse Tech-support Wife White Female 4064.0 0.0 0.0 United-States <=50K

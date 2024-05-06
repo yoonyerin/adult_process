@@ -1,0 +1,1 @@
+-0.35 Self-emp-inc -0.8294883484676268 HS-grad -0.3333333333333333 Married-civ-spouse Exec-managerial Husband White Male 0.0 0.0 5.0 Canada >50K

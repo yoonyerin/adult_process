@@ -1,0 +1,1 @@
+0.0 Self-emp-not-inc -0.9096855314489368 HS-grad -0.3333333333333333 Married-civ-spouse Transport-moving Husband White Male 0.0 0.0 4.0 United-States >50K

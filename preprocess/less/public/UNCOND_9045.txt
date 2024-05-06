@@ -1,0 +1,1 @@
+0.5 Self-emp-not-inc -0.1507142470532885 Some-college 0.0 Widowed Other-service Unmarried White Female 0.0 0.0 -1.0 United-States <=50K

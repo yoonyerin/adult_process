@@ -1,0 +1,1 @@
+0.5 nan -0.0010949983970555 10th -1.3333333333333333 Married-civ-spouse nan Wife White Female 0.0 0.0 -4.0 Cuba <=50K

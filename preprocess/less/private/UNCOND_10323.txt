@@ -1,0 +1,1 @@
+0.1 Self-emp-not-inc 1.2768305833468647 Bachelors 1.0 Divorced Craft-repair Not-in-family Black Male 0.0 1669.0 4.0 nan <=50K

@@ -1,0 +1,1 @@
+2.2 nan -0.4801880232989012 Assoc-voc 0.3333333333333333 Divorced nan Unmarried White Female 0.0 0.0 -7.8 nan <=50K

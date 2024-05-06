@@ -1,0 +1,1 @@
+1.05 State-gov -0.3427594792304201 HS-grad -0.3333333333333333 Married-spouse-absent Other-service Unmarried Black Female 0.0 0.0 0.0 Honduras <=50K

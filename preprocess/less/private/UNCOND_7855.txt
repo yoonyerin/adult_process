@@ -1,0 +1,1 @@
+-0.85 Private 0.342418072886091 HS-grad -0.3333333333333333 Married-civ-spouse Prof-specialty Own-child White Female 0.0 0.0 -0.8 nan <=50K

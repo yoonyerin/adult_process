@@ -1,0 +1,1 @@
+0.85 Self-emp-not-inc -1.180912054558399 7th-8th -2.0 Married-civ-spouse Machine-op-inspct Husband White Male 0.0 0.0 2.0 United-States <=50K

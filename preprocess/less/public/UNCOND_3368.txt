@@ -1,0 +1,1 @@
+1.05 Self-emp-not-inc 0.2781420833281289 12th -0.6666666666666666 Divorced Sales Not-in-family White Female 0.0 0.0 2.4 United-States <=50K

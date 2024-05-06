@@ -1,0 +1,1 @@
+0.35 Self-emp-not-inc -1.261334066107926 Assoc-acdm 0.6666666666666666 Married-civ-spouse Other-service Wife White Female 0.0 0.0 11.8 United-States <=50K

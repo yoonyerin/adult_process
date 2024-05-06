@@ -1,0 +1,1 @@
+0.0 Private 0.2043316970809757 Some-college 0.0 Never-married Tech-support Not-in-family White Male 0.0 0.0 -1.0 United-States <=50K

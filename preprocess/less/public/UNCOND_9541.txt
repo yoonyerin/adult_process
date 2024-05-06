@@ -1,0 +1,1 @@
+1.4 nan 0.0189647060782819 Assoc-acdm 0.6666666666666666 Never-married nan Not-in-family White Male 6723.0 0.0 -0.4 United-States <=50K

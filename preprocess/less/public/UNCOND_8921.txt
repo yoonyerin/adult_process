@@ -1,0 +1,1 @@
+-0.25 Private 1.01164945062723 Some-college 0.0 Married-civ-spouse Exec-managerial Husband White Male 0.0 0.0 2.0 Germany <=50K

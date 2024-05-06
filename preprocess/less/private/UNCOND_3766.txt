@@ -1,0 +1,1 @@
+-0.4 Private -0.9642605846375472 HS-grad -0.3333333333333333 Married-civ-spouse Other-service Other-relative Asian-Pac-Islander Female 0.0 0.0 0.0 nan <=50K

@@ -1,0 +1,1 @@
+-0.3 State-gov 7.120216668123889 Some-college 0.0 Married-civ-spouse Machine-op-inspct Husband White Male 0.0 0.0 0.0 United-States <=50K

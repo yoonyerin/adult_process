@@ -1,0 +1,1 @@
+0.25 Federal-gov -1.1778144165074131 Some-college 0.0 Married-civ-spouse Adm-clerical Husband White Male 0.0 0.0 0.0 United-States <=50K

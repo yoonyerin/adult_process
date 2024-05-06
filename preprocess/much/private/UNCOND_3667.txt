@@ -1,0 +1,1 @@
+1.05 Self-emp-not-inc -0.2539022328807617 10th -1.3333333333333333 Married-civ-spouse Craft-repair Wife White Female 0.0 1977.0 -1.0 nan >50K

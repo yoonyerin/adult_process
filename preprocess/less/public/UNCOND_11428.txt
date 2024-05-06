@@ -1,0 +1,1 @@
+1.55 Private -0.2831799086529854 Some-college 0.0 Divorced Priv-house-serv Other-relative White Female 0.0 0.0 -2.0 United-States <=50K

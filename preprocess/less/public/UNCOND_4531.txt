@@ -1,0 +1,1 @@
+1.1 Private -0.4028803037683766 Some-college 0.0 Never-married Adm-clerical Unmarried White Female 0.0 0.0 0.0 Scotland <=50K

@@ -1,0 +1,1 @@
+0.6 Self-emp-inc -0.1620389453042055 HS-grad -0.3333333333333333 Married-civ-spouse Adm-clerical Wife White Female 0.0 2377.0 0.0 United-States >50K

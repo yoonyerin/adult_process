@@ -1,0 +1,1 @@
+1.35 State-gov -0.5863237614652161 1st-4th -2.6666666666666665 Married-civ-spouse Farming-fishing Husband Other Male 0.0 0.0 1.0 Columbia <=50K

@@ -1,0 +1,1 @@
+-0.2 Self-emp-not-inc -0.1898677258590325 Some-college 0.0 Never-married Farming-fishing Not-in-family White Male 0.0 0.0 6.4 United-States <=50K

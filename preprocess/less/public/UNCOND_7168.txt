@@ -1,0 +1,1 @@
+1.7 Self-emp-not-inc 1.2044524383490922 HS-grad -0.3333333333333333 Married-civ-spouse Farming-fishing Husband Amer-Indian-Eskimo Male 0.0 0.0 -1.0 United-States <=50K

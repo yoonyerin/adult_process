@@ -1,0 +1,1 @@
+-0.8 Self-emp-not-inc -0.6234204752209773 12th -0.6666666666666666 Married-civ-spouse Adm-clerical Wife White Female 4508.0 0.0 -2.0 Portugal <=50K

@@ -1,0 +1,1 @@
+-0.6 State-gov 0.0779697147591628 Some-college 0.0 Never-married Handlers-cleaners Own-child White Male 0.0 0.0 0.0 United-States <=50K

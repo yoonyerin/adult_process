@@ -1,0 +1,1 @@
+-0.45 State-gov 0.0967637176652802 Some-college 0.0 Separated Adm-clerical Unmarried White Female 0.0 0.0 2.0 United-States <=50K

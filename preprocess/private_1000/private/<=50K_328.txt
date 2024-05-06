@@ -1,0 +1,1 @@
+1.2 Self-emp-not-inc 0.5441559144485663 HS-grad -0.3333333333333333 Married-civ-spouse Other-service Husband Black Male 0.0 0.0 -5.6 United-States

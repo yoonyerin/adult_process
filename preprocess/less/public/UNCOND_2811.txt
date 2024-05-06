@@ -1,0 +1,1 @@
+-0.4 Local-gov 0.0447866834871743 Some-college 0.0 Never-married Exec-managerial Not-in-family White Male 0.0 0.0 0.0 Iran <=50K

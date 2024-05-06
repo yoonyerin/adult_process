@@ -1,0 +1,1 @@
+0.4 State-gov -0.8018177806089524 Some-college 0.0 Married-civ-spouse Adm-clerical Wife Asian-Pac-Islander Female 0.0 0.0 0.0 United-States >50K

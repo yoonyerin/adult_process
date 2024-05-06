@@ -1,0 +1,1 @@
+-0.8 Private -1.2598934978745373 Some-college 0.0 Never-married Sales Not-in-family White Female 0.0 0.0 -4.0 United-States <=50K

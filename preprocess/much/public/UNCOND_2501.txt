@@ -1,0 +1,1 @@
+0.25 Self-emp-not-inc -0.1281231394395107 Some-college 0.0 Married-civ-spouse Handlers-cleaners Husband White Male 0.0 0.0 3.2 United-States >50K

@@ -1,0 +1,1 @@
+-0.4 Self-emp-not-inc 1.3306478809907445 11th -1.0 Separated Transport-moving Not-in-family White Male 0.0 0.0 4.0 United-States <=50K

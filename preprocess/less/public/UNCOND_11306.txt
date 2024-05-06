@@ -1,0 +1,1 @@
+-0.15 Self-emp-inc 2.7964718568757987 HS-grad -0.3333333333333333 Divorced Craft-repair Not-in-family Black Male 0.0 0.0 2.0 United-States <=50K

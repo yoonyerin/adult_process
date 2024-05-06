@@ -1,0 +1,1 @@
+-0.05 Self-emp-inc -1.083186570240192 HS-grad -0.3333333333333333 Married-civ-spouse Farming-fishing Husband White Male 0.0 0.0 8.0 United-States <=50K

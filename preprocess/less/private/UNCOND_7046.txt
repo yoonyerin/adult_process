@@ -1,0 +1,1 @@
+-0.1 Self-emp-inc 1.2947752338841634 HS-grad -0.3333333333333333 Married-civ-spouse Exec-managerial Husband Black Male 0.0 0.0 7.0 United-States <=50K

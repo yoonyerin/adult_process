@@ -1,0 +1,1 @@
+0.1 State-gov 0.3339495301499273 Some-college 0.0 Separated Prof-specialty Unmarried Black Female 0.0 0.0 -0.6 United-States <=50K

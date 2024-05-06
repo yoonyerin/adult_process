@@ -1,0 +1,1 @@
+-0.55 Federal-gov 0.2401377283154927 Prof-school 1.6666666666666667 Married-civ-spouse Prof-specialty Husband White Male 0.0 0.0 4.0 Columbia <=50K

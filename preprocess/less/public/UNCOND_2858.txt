@@ -1,0 +1,1 @@
+0.3 Self-emp-not-inc 0.4956678865698238 Assoc-voc 0.3333333333333333 Divorced Exec-managerial Not-in-family White Male 0.0 0.0 -3.0 United-States <=50K

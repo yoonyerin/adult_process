@@ -1,0 +1,1 @@
+-0.85 nan -0.3716291327862505 Some-college 0.0 Never-married nan Own-child White Female 0.0 0.0 -5.0 France <=50K

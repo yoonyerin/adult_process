@@ -1,0 +1,1 @@
+0.35 Self-emp-inc -0.3754179105099028 Some-college 0.0 Divorced Machine-op-inspct Not-in-family White Male 0.0 0.0 4.0 United-States <=50K

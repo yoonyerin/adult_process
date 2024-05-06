@@ -1,0 +1,1 @@
+1.3 Private -0.3747184438532285 HS-grad -0.3333333333333333 Married-civ-spouse Prof-specialty Husband White Male 0.0 0.0 1.0 United-States <=50K

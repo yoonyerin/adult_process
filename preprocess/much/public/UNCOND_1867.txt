@@ -1,0 +1,1 @@
+-0.6 Private 0.6255438561430243 Some-college 0.0 Married-civ-spouse Adm-clerical Husband Black Male 0.0 1902.0 -0.8 United-States >50K

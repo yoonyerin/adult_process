@@ -1,0 +1,1 @@
+0.5 State-gov 0.9109928679381972 Bachelors 1.0 Married-civ-spouse Prof-specialty Wife White Female 0.0 0.0 0.0 United-States <=50K

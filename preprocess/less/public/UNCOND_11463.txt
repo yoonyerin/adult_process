@@ -1,0 +1,1 @@
+0.0 Self-emp-not-inc 1.3002294084094213 Bachelors 1.0 Divorced Transport-moving Not-in-family White Male 0.0 0.0 2.0 United-States <=50K

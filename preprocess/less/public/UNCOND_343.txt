@@ -1,0 +1,1 @@
+-0.3 nan 2.7253677404312544 HS-grad -0.3333333333333333 Married-civ-spouse nan Husband White Male 0.0 0.0 -2.0 Mexico <=50K

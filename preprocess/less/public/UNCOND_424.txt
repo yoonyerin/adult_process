@@ -1,0 +1,1 @@
+-0.05 nan 0.1895179925306953 Assoc-acdm 0.6666666666666666 Married-civ-spouse nan Wife Black Female 0.0 0.0 -3.8 Haiti <=50K

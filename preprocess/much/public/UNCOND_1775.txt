@@ -1,0 +1,1 @@
+1.15 Self-emp-not-inc -0.4576052426691314 9th -1.6666666666666667 Married-civ-spouse Exec-managerial Husband White Male 0.0 1887.0 5.4 United-States >50K

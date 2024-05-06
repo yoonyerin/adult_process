@@ -1,0 +1,1 @@
+1.3 Self-emp-inc -1.1630506738611808 Some-college 0.0 Widowed Sales Not-in-family White Female 14084.0 0.0 4.0 United-States >50K

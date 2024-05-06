@@ -1,0 +1,1 @@
+1.2 nan 0.4296682113222002 1st-4th -2.6666666666666665 Married-civ-spouse nan Husband White Male 3942.0 0.0 -4.0 Mexico <=50K

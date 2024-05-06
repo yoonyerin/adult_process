@@ -1,0 +1,1 @@
+-0.3 State-gov 0.7551533622279678 HS-grad -0.3333333333333333 Never-married Adm-clerical Not-in-family Black Female 0.0 0.0 -0.6 United-States <=50K

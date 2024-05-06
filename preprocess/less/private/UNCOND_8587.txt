@@ -1,0 +1,1 @@
+-0.7 Private 0.7139680993242652 Some-college 0.0 Never-married Sales Not-in-family Black Female 0.0 0.0 -4.0 United-States <=50K

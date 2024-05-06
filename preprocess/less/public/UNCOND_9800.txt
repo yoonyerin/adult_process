@@ -1,0 +1,1 @@
+-0.7 Private -1.0298189297327454 Some-college 0.0 Married-spouse-absent Other-service Not-in-family White Female 0.0 0.0 2.0 United-States <=50K

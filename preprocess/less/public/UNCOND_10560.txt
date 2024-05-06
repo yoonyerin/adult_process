@@ -1,0 +1,1 @@
+1.35 Private -0.9852112764017436 HS-grad -0.3333333333333333 Married-civ-spouse Farming-fishing Husband White Male 0.0 0.0 -3.0 France <=50K

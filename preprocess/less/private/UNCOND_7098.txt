@@ -1,0 +1,1 @@
+1.25 Federal-gov -1.0035306412194036 Some-college 0.0 Divorced Tech-support Not-in-family Black Male 4650.0 0.0 0.0 United-States <=50K

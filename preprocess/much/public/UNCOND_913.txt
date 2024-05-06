@@ -1,0 +1,1 @@
+1.4 Self-emp-not-inc -0.1662690531802833 Masters 1.3333333333333333 Married-civ-spouse Sales Husband White Male 10605.0 0.0 0.8 United-States >50K

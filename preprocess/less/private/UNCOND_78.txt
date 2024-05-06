@@ -1,0 +1,1 @@
+-0.75 Private -1.0575977483835242 Some-college 0.0 Never-married Tech-support Not-in-family White Female 0.0 0.0 4.0 United-States <=50K

@@ -1,0 +1,1 @@
+0.55 Self-emp-not-inc -0.145060224911838 Bachelors 1.0 Married-civ-spouse Exec-managerial Husband Asian-Pac-Islander Male 0.0 0.0 0.0 Japan <=50K

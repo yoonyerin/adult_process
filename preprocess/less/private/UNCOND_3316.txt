@@ -1,0 +1,1 @@
+0.7 Local-gov -0.6824338108858662 Some-college 0.0 Married-civ-spouse Adm-clerical Wife White Female 0.0 0.0 0.0 United-States <=50K

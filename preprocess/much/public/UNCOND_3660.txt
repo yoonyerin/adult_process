@@ -1,0 +1,1 @@
+0.4 Self-emp-inc 0.2977104957469929 Masters 1.3333333333333333 Married-civ-spouse Sales Husband Asian-Pac-Islander Male 0.0 1902.0 0.0 Hong >50K

@@ -1,0 +1,1 @@
+-0.45 Private -0.1420375297169241 Some-college 0.0 Never-married Exec-managerial Not-in-family Black Female 0.0 0.0 1.0 Jamaica <=50K

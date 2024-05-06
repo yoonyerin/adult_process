@@ -1,0 +1,1 @@
+0.4 Federal-gov -0.7572351082299746 HS-grad -0.3333333333333333 Married-civ-spouse Adm-clerical Wife White Female 0.0 0.0 -0.6 United-States <=50K

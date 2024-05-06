@@ -1,0 +1,1 @@
+0.65 Self-emp-not-inc -0.0631393562408663 Assoc-acdm 0.6666666666666666 Married-civ-spouse Protective-serv Husband White Male 0.0 0.0 -4.0 United-States <=50K

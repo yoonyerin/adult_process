@@ -1,0 +1,1 @@
+-0.2 Local-gov 0.3706298947052872 Some-college 0.0 Married-civ-spouse Handlers-cleaners Husband White Male 0.0 0.0 5.2 nan <=50K

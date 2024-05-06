@@ -1,0 +1,1 @@
+1.1 Private -0.6842907283196563 Prof-school 1.6666666666666667 Married-civ-spouse Exec-managerial Husband Black Male 0.0 0.0 0.0 nan <=50K

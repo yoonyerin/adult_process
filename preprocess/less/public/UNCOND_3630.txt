@@ -1,0 +1,1 @@
+0.5 Federal-gov -0.4427499031988109 Some-college 0.0 Divorced Adm-clerical Not-in-family White Female 0.0 0.0 -3.0 United-States <=50K

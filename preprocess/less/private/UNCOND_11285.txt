@@ -1,0 +1,1 @@
+-0.1 Self-emp-not-inc -1.2244788348883977 Some-college 0.0 Separated Farming-fishing Not-in-family White Male 4101.0 0.0 4.0 United-States <=50K

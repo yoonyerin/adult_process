@@ -1,0 +1,1 @@
+0.25 nan -0.0871543781200168 11th -1.0 Married-civ-spouse nan Husband White Male 0.0 0.0 -3.6 Ecuador <=50K

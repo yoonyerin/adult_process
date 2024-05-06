@@ -1,0 +1,1 @@
+1.95 nan -1.2484105869274678 HS-grad -0.3333333333333333 Married-civ-spouse nan Husband White Male 0.0 0.0 0.0 Canada >50K

@@ -1,0 +1,1 @@
+0.0 Private 0.6806268553561243 Assoc-voc 0.3333333333333333 Never-married Sales Unmarried Black Female 0.0 0.0 -6.8 United-States <=50K

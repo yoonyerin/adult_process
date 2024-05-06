@@ -1,0 +1,1 @@
+-0.7 Local-gov 2.64995857325456 Some-college 0.0 Married-spouse-absent Adm-clerical Own-child White Female 0.0 0.0 0.0 Guatemala <=50K

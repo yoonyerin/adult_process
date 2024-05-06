@@ -1,0 +1,1 @@
+0.7 Local-gov 2.021562725088786 Bachelors 1.0 Married-civ-spouse Prof-specialty Husband White Male 0.0 0.0 1.0 United-States <=50K

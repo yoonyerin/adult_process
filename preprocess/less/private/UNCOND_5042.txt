@@ -1,0 +1,1 @@
+-0.85 Private -0.1330693679402788 Some-college 0.0 Never-married Priv-house-serv Own-child White Female 0.0 0.0 1.0 United-States <=50K

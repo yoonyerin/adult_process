@@ -1,0 +1,1 @@
+-0.1 nan 0.2043316970809757 Bachelors 1.0 Never-married nan Not-in-family White Male 0.0 0.0 0.0 United-States <=50K

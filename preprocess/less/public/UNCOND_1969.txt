@@ -1,0 +1,1 @@
+1.2 Self-emp-not-inc 0.0654126228750577 Assoc-voc 0.3333333333333333 Widowed Craft-repair Unmarried White Female 0.0 0.0 0.0 Canada <=50K

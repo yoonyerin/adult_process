@@ -1,0 +1,1 @@
+0.95 Self-emp-not-inc -1.0435584533459905 Bachelors 1.0 Divorced Farming-fishing Not-in-family White Male 0.0 0.0 -2.0 United-States <=50K

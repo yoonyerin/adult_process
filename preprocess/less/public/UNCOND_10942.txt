@@ -1,0 +1,1 @@
+-0.75 Private -0.056003130945987 Assoc-voc 0.3333333333333333 Never-married Exec-managerial Unmarried Asian-Pac-Islander Male 0.0 0.0 0.0 South <=50K

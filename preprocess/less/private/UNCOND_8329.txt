@@ -1,0 +1,1 @@
+0.4 Private -0.8805910493248897 Bachelors 1.0 Married-spouse-absent Prof-specialty Unmarried White Female 0.0 0.0 -0.4 United-States <=50K

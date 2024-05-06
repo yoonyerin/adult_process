@@ -1,0 +1,1 @@
+1.65 Local-gov -0.0137520140892569 Some-college 0.0 Widowed Adm-clerical Not-in-family White Female 0.0 0.0 -4.6 United-States <=50K

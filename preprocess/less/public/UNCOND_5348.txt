@@ -1,0 +1,1 @@
+0.05 Private 0.4908465628291761 Some-college 0.0 Married-spouse-absent Other-service Unmarried White Female 0.0 0.0 -0.8 Peru <=50K

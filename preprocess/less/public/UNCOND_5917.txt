@@ -1,0 +1,1 @@
+0.25 State-gov -0.4334236811098204 HS-grad -0.3333333333333333 Separated Adm-clerical Unmarried White Male 0.0 0.0 -0.2 United-States <=50K

@@ -1,0 +1,1 @@
+0.1 State-gov -1.2685202533068536 Masters 1.3333333333333333 Married-civ-spouse Prof-specialty Husband Asian-Pac-Islander Male 0.0 0.0 1.6 China <=50K

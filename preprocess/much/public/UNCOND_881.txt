@@ -1,0 +1,1 @@
+0.2 State-gov -1.2075667303680944 Bachelors 1.0 Married-civ-spouse Farming-fishing Husband White Male 0.0 0.0 0.0 United-States >50K

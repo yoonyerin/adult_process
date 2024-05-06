@@ -1,0 +1,1 @@
+1.0 nan -0.3371304380409937 HS-grad -0.3333333333333333 Married-civ-spouse nan Husband Other Male 0.0 0.0 -7.0 Columbia <=50K

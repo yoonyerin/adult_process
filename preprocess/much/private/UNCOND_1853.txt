@@ -1,0 +1,1 @@
+0.2 State-gov 0.8807659159890583 Assoc-voc 0.3333333333333333 Married-civ-spouse Prof-specialty Husband White Male 0.0 0.0 -1.0 United-States >50K

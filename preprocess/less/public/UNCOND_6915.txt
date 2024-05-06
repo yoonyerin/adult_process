@@ -1,0 +1,1 @@
+-0.1 Private 1.49448129134868 Assoc-voc 0.3333333333333333 Married-civ-spouse Adm-clerical Wife White Female 0.0 0.0 0.0 Germany <=50K

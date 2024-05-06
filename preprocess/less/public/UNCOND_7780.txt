@@ -1,0 +1,1 @@
+0.3 Local-gov 1.3266925635869316 Some-college 0.0 Divorced Adm-clerical Not-in-family White Female 594.0 0.0 -4.0 Mexico <=50K

@@ -1,0 +1,1 @@
+0.1 Local-gov 1.2408829933842112 Masters 1.3333333333333333 Married-civ-spouse Exec-managerial Husband White Male 0.0 0.0 1.0 United-States <=50K

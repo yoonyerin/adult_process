@@ -1,0 +1,1 @@
+-0.8 Local-gov 1.865956374930782 Some-college 0.0 Never-married Adm-clerical Unmarried White Male 0.0 0.0 -0.8 United-States <=50K

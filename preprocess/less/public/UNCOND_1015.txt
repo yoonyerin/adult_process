@@ -1,0 +1,1 @@
+0.05 Private -0.5816523234367128 Assoc-voc 0.3333333333333333 Divorced Adm-clerical Unmarried White Female 0.0 0.0 -0.4 United-States <=50K

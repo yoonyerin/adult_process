@@ -1,0 +1,1 @@
+0.45 Self-emp-inc 0.8731633795897294 Assoc-voc 0.3333333333333333 Divorced Exec-managerial Unmarried Asian-Pac-Islander Female 0.0 0.0 4.6 Thailand <=50K

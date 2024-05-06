@@ -1,0 +1,1 @@
+-0.4 Private -0.07528009892457 HS-grad -0.3333333333333333 Married-civ-spouse Exec-managerial Other-relative Asian-Pac-Islander Male 0.0 0.0 7.0 Thailand <=50K

@@ -1,0 +1,1 @@
+1.0 Self-emp-not-inc -0.690011366333171 Some-college 0.0 Married-civ-spouse Sales Husband White Male 99999.0 0.0 1.0 United-States >50K

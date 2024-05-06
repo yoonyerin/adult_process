@@ -1,0 +1,1 @@
+0.1 Private -0.8324777357265085 Some-college 0.0 Married-spouse-absent Adm-clerical Unmarried Amer-Indian-Eskimo Female 0.0 0.0 0.0 United-States <=50K

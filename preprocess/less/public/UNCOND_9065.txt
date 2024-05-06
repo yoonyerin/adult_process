@@ -1,0 +1,1 @@
+-0.25 Self-emp-not-inc -0.5105315530241524 HS-grad -0.3333333333333333 Married-civ-spouse Other-service Wife White Female 0.0 0.0 -7.0 nan <=50K

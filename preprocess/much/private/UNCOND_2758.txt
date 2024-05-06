@@ -1,0 +1,1 @@
+1.1 Self-emp-inc -0.8433944117610322 5th-6th -2.333333333333333 Married-civ-spouse Exec-managerial Husband Asian-Pac-Islander Male 99999.0 0.0 0.0 China >50K

@@ -1,0 +1,1 @@
+1.4 Self-emp-not-inc -0.4968752992509878 11th -1.0 Married-civ-spouse Exec-managerial Husband White Male 9386.0 0.0 3.8 nan >50K

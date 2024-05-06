@@ -1,0 +1,1 @@
+-0.3 Local-gov -0.7751381238472331 Some-college 0.0 Married-civ-spouse Adm-clerical Wife Amer-Indian-Eskimo Female 0.0 0.0 0.0 United-States >50K

@@ -1,0 +1,1 @@
+-0.4 Private -0.5915197994862251 Some-college 0.0 Married-civ-spouse Adm-clerical Husband Amer-Indian-Eskimo Male 0.0 0.0 0.0 United-States <=50K

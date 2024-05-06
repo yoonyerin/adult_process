@@ -1,0 +1,1 @@
+1.5 Self-emp-inc 1.211505393803891 HS-grad -0.3333333333333333 Married-civ-spouse Craft-repair Husband White Male 0.0 0.0 -5.0 Canada <=50K

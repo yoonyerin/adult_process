@@ -1,0 +1,1 @@
+-0.55 Self-emp-inc -0.8249251612312278 HS-grad -0.3333333333333333 Never-married Farming-fishing Not-in-family White Male 0.0 0.0 2.0 United-States

@@ -1,0 +1,1 @@
+0.15 Self-emp-inc -0.3395535903873297 Some-college 0.0 Married-civ-spouse Exec-managerial Husband Asian-Pac-Islander Male 0.0 0.0 2.0 China <=50K

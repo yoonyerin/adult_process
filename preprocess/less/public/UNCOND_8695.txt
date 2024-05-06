@@ -1,0 +1,1 @@
+-0.2 State-gov 0.977958473330752 Some-college 0.0 Separated Adm-clerical Own-child Black Male 0.0 0.0 -1.0 United-States <=50K

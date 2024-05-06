@@ -1,0 +1,1 @@
+0.2 Self-emp-not-inc 0.8296881960838194 Some-college 0.0 Divorced Craft-repair Not-in-family White Male 0.0 2001.0 2.0 United-States <=50K

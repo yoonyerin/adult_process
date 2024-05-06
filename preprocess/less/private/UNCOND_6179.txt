@@ -1,0 +1,1 @@
+1.15 nan -1.137695007556738 11th -1.0 Married-spouse-absent nan Unmarried Black Female 0.0 0.0 -4.0 United-States <=50K

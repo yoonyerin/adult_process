@@ -1,0 +1,1 @@
+1.55 Self-emp-not-inc 0.1699495801118314 Some-college 0.0 Divorced Transport-moving Not-in-family White Female 0.0 0.0 -4.0 United-States <=50K

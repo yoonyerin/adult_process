@@ -1,0 +1,1 @@
+0.05 State-gov -0.7200717786021492 Some-college 0.0 Divorced Prof-specialty Own-child Asian-Pac-Islander Female 0.0 0.0 0.0 United-States <=50K

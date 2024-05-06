@@ -1,0 +1,1 @@
+-0.25 State-gov 0.293480387870915 Some-college 0.0 Divorced Protective-serv Unmarried White Female 0.0 1726.0 -0.4 United-States <=50K

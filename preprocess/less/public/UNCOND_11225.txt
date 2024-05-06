@@ -1,0 +1,1 @@
+-0.7 Self-emp-not-inc -0.2368235886802979 10th -1.3333333333333333 Never-married Sales Own-child White Female 0.0 0.0 0.0 United-States <=50K

@@ -1,0 +1,1 @@
+-0.9 State-gov -0.2382891378657107 Some-college 0.0 Never-married Farming-fishing Own-child White Male 0.0 0.0 -5.6 United-States <=50K

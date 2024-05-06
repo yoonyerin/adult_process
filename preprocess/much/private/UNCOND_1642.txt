@@ -1,0 +1,1 @@
+0.15 Local-gov -0.6533809636818593 Prof-school 1.6666666666666667 Never-married Exec-managerial Not-in-family White Male 0.0 0.0 4.0 United-States >50K

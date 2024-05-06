@@ -1,0 +1,1 @@
+-0.25 Self-emp-inc 0.4804877947231902 Masters 1.3333333333333333 Never-married Exec-managerial Not-in-family White Female 0.0 0.0 2.4 United-States <=50K

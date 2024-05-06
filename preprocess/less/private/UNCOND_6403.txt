@@ -1,0 +1,1 @@
+0.05 Private 0.6677783190317383 Assoc-voc 0.3333333333333333 Married-civ-spouse Other-service Husband White Male 0.0 0.0 6.0 Iran <=50K

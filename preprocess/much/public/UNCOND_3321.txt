@@ -1,0 +1,1 @@
+0.05 Self-emp-inc -0.8921155951919995 Bachelors 1.0 Married-civ-spouse Exec-managerial Wife Asian-Pac-Islander Female 7298.0 0.0 0.0 nan >50K

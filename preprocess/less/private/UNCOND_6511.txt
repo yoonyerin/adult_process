@@ -1,0 +1,1 @@
+-0.15 Private 1.3554040044466094 Prof-school 1.6666666666666667 Married-civ-spouse Exec-managerial Husband White Male 2829.0 0.0 2.0 nan <=50K

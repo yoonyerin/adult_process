@@ -1,0 +1,1 @@
+0.8 Self-emp-not-inc -0.2247078269486183 10th -1.3333333333333333 Married-spouse-absent Transport-moving Not-in-family White Male 0.0 0.0 11.8 United-States <=50K

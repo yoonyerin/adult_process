@@ -1,0 +1,1 @@
+0.45 nan -0.0069905030747388 Assoc-voc 0.3333333333333333 Married-civ-spouse nan Wife Black Female 0.0 0.0 -1.0 United-States >50K

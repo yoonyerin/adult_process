@@ -1,0 +1,1 @@
+0.85 Self-emp-inc 1.0527431167068444 Bachelors 1.0 Married-civ-spouse Machine-op-inspct Husband Asian-Pac-Islander Male 7688.0 0.0 0.0 nan >50K

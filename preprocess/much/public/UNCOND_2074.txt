@@ -1,0 +1,1 @@
+1.0 Self-emp-inc -0.0457193056960734 Prof-school 1.6666666666666667 Married-civ-spouse Transport-moving Husband White Male 15024.0 0.0 2.0 United-States >50K

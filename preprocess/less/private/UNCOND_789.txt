@@ -1,0 +1,1 @@
+1.8 Private 0.5381271780267546 HS-grad -0.3333333333333333 Married-civ-spouse Machine-op-inspct Husband White Male 3471.0 0.0 0.0 England <=50K

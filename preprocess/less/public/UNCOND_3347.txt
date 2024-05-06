@@ -1,0 +1,1 @@
+0.75 Self-emp-not-inc -1.1486616454953098 Some-college 0.0 Widowed Craft-repair Not-in-family Black Male 0.0 0.0 -1.0 United-States <=50K

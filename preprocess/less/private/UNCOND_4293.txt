@@ -1,0 +1,1 @@
+0.9 Private -0.6438715479446921 HS-grad -0.3333333333333333 Married-spouse-absent Priv-house-serv Not-in-family Black Female 0.0 0.0 -0.8 United-States <=50K

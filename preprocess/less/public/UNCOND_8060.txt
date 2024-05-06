@@ -1,0 +1,1 @@
+0.8 Self-emp-not-inc 0.0806510036097475 Assoc-voc 0.3333333333333333 Separated Craft-repair Not-in-family White Male 0.0 0.0 0.0 Poland <=50K

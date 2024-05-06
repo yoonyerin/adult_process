@@ -1,0 +1,1 @@
+-0.8 nan -0.0148928108983566 Some-college 0.0 Never-married nan Own-child White Female 0.0 0.0 -6.0 Germany <=50K

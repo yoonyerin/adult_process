@@ -1,0 +1,1 @@
+0.7 Self-emp-inc -0.404853798978279 HS-grad -0.3333333333333333 Never-married Sales Other-relative White Male 0.0 0.0 0.0 nan <=50K

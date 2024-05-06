@@ -1,0 +1,1 @@
+-0.15 Self-emp-not-inc -0.5325897336614165 Bachelors 1.0 Divorced Transport-moving Not-in-family White Male 0.0 0.0 2.0 nan <=50K

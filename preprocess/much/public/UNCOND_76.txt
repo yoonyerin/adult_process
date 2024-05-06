@@ -1,0 +1,1 @@
+-0.75 Self-emp-not-inc 0.2063051922908782 HS-grad -0.3333333333333333 Never-married Prof-specialty Unmarried White Female 99999.0 0.0 0.0 Dominican-Republic >50K

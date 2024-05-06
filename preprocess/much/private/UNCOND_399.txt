@@ -1,0 +1,1 @@
+0.95 Self-emp-not-inc 1.311171065395969 HS-grad -0.3333333333333333 Married-civ-spouse Other-service Husband White Male 0.0 1887.0 2.0 Canada >50K

@@ -1,0 +1,1 @@
+-0.5 State-gov -0.2656432803320801 Some-college 0.0 Separated Other-service Not-in-family White Female 0.0 0.0 -2.0 United-States <=50K

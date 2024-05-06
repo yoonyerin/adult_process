@@ -1,0 +1,1 @@
+-0.35 Private -0.0045673507284029 Some-college 0.0 Never-married Other-service Unmarried White Female 0.0 0.0 -0.8 United-States <=50K

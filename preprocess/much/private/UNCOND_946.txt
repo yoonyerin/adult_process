@@ -1,0 +1,1 @@
+0.6 Self-emp-not-inc -1.12244829983804 Doctorate 2.0 Never-married Prof-specialty Not-in-family White Male 99999.0 0.0 6.0 United-States >50K

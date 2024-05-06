@@ -1,0 +1,1 @@
+-0.45 Private 0.5112310196808267 HS-grad -0.3333333333333333 Married-spouse-absent Machine-op-inspct Own-child Asian-Pac-Islander Male 0.0 0.0 0.0 Philippines <=50K

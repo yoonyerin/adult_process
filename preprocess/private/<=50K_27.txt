@@ -1,0 +1,1 @@
+1.0 Self-emp-not-inc -0.8210864216035273 HS-grad -0.3333333333333333 Married-civ-spouse Farming-fishing Husband Asian-Pac-Islander Male 0.0 0.0 0.0 United-States

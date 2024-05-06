@@ -1,0 +1,1 @@
+0.2 Self-emp-inc -0.3183281081508683 Assoc-voc 0.3333333333333333 Married-civ-spouse Sales Husband Other Male 0.0 2179.0 8.8 Mexico <=50K

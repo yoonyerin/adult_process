@@ -1,0 +1,1 @@
+-0.1 Self-emp-not-inc -0.3634437075063597 Some-college 0.0 Never-married Exec-managerial Own-child White Male 0.0 0.0 1.0 United-States >50K

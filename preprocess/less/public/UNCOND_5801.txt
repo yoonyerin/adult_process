@@ -1,0 +1,1 @@
+-0.45 nan -0.2533526519362319 Some-college 0.0 Never-married nan Not-in-family Asian-Pac-Islander Male 0.0 0.0 1.6 India <=50K

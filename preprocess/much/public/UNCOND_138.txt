@@ -1,0 +1,1 @@
+0.45 State-gov -0.5970489168675551 Some-college 0.0 Married-civ-spouse Exec-managerial Husband Black Male 7688.0 0.0 -0.4 United-States >50K

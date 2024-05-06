@@ -1,0 +1,1 @@
+0.7 Self-emp-not-inc 0.3725367740431254 Bachelors 1.0 Married-civ-spouse Sales Husband Black Male 0.0 0.0 3.0 United-States <=50K

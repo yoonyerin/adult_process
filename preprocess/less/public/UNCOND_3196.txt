@@ -1,0 +1,1 @@
+0.05 Private -1.2584446026571403 HS-grad -0.3333333333333333 Married-civ-spouse Farming-fishing Husband White Male 0.0 0.0 0.6 United-States <=50K

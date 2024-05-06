@@ -1,0 +1,1 @@
+-0.4 Local-gov -0.7151422040693971 HS-grad -0.3333333333333333 Never-married Protective-serv Own-child White Male 0.0 0.0 1.6 United-States <=50K

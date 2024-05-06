@@ -1,0 +1,1 @@
+0.95 Self-emp-not-inc -1.051102700857263 HS-grad -0.3333333333333333 Divorced Exec-managerial Not-in-family White Male 0.0 0.0 2.0 United-States >50K

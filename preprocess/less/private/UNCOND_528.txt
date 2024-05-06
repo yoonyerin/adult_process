@@ -1,0 +1,1 @@
+-0.05 Self-emp-inc -0.6279836624573762 Assoc-acdm 0.6666666666666666 Married-civ-spouse Prof-specialty Husband White Male 0.0 0.0 6.0 United-States <=50K

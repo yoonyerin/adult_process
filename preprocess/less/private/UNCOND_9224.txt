@@ -1,0 +1,1 @@
+0.7 Self-emp-not-inc -1.2138452763101468 12th -0.6666666666666666 Married-civ-spouse Other-service Husband White Male 0.0 0.0 11.8 United-States <=50K

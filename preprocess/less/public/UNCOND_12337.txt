@@ -1,0 +1,1 @@
+1.2 Private 0.0013947698213445 Assoc-acdm 0.6666666666666666 Married-civ-spouse Exec-managerial Husband White Male 0.0 0.0 0.4 United-States <=50K

@@ -1,0 +1,1 @@
+-0.55 Self-emp-inc 0.5652398379568913 HS-grad -0.3333333333333333 Separated Sales Unmarried White Female 0.0 0.0 -4.0 Honduras <=50K

@@ -1,0 +1,1 @@
+0.2 Self-emp-inc -1.0169370854723274 Prof-school 1.6666666666666667 Married-civ-spouse Prof-specialty Husband Asian-Pac-Islander Male 99999.0 0.0 2.0 India

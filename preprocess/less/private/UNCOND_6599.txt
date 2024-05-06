@@ -1,0 +1,1 @@
+0.25 Self-emp-not-inc -1.117776861809537 Masters 1.3333333333333333 Divorced Prof-specialty Not-in-family White Female 0.0 0.0 -1.6 United-States <=50K

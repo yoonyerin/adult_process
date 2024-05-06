@@ -1,0 +1,1 @@
+1.75 Self-emp-inc -0.7790518063310059 5th-6th -2.333333333333333 Married-civ-spouse Exec-managerial Husband Asian-Pac-Islander Male 0.0 0.0 -4.0 Japan <=50K

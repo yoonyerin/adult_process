@@ -1,0 +1,1 @@
+0.35 nan 0.1152246412110765 Some-college 0.0 Divorced nan Unmarried White Female 0.0 0.0 -6.0 Poland <=50K

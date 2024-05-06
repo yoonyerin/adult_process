@@ -1,0 +1,1 @@
+0.5 Local-gov 0.2184376079905738 Some-college 0.0 Never-married Other-service Own-child White Female 0.0 0.0 -4.0 United-States <=50K

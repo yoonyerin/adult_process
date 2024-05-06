@@ -1,0 +1,1 @@
+1.15 Self-emp-inc -0.4545908744582256 7th-8th -2.0 Married-civ-spouse Exec-managerial Husband White Male 0.0 0.0 3.0 Ireland <=50K

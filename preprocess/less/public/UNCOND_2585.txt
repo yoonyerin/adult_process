@@ -1,0 +1,1 @@
+-0.5 Private 0.7396734989570453 HS-grad -0.3333333333333333 Married-civ-spouse Craft-repair Husband White Male 0.0 0.0 4.0 United-States <=50K

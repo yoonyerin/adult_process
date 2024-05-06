@@ -1,0 +1,1 @@
+0.25 Federal-gov -1.0360225328187258 HS-grad -0.3333333333333333 Married-civ-spouse Transport-moving Husband White Male 0.0 0.0 0.0 nan <=50K

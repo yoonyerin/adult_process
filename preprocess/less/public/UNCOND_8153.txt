@@ -1,0 +1,1 @@
+0.15 Private -1.1993479971521714 HS-grad -0.3333333333333333 Never-married Exec-managerial Not-in-family Amer-Indian-Eskimo Male 6849.0 0.0 0.6 United-States <=50K

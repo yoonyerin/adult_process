@@ -1,0 +1,1 @@
+-0.2 Self-emp-not-inc 0.977975127298768 1st-4th -2.6666666666666665 Married-spouse-absent Craft-repair Not-in-family White Male 0.0 0.0 0.0 Mexico <=50K

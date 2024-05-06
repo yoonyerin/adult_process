@@ -1,0 +1,1 @@
+1.8 Self-emp-not-inc -1.096085068468626 HS-grad -0.3333333333333333 Married-civ-spouse Sales Wife White Female 0.0 0.0 -3.0 United-States <=50K

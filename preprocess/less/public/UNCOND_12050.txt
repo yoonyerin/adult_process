@@ -1,0 +1,1 @@
+1.4 Without-pay -0.0432628454137053 HS-grad -0.3333333333333333 Married-civ-spouse Transport-moving Husband White Male 2414.0 0.0 -4.0 United-States <=50K

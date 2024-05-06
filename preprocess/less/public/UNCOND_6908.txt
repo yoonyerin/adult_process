@@ -1,0 +1,1 @@
+-0.5 nan 0.0879870765208195 Some-college 0.0 Divorced nan Not-in-family White Male 0.0 0.0 -2.0 United-States <=50K

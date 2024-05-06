@@ -1,0 +1,1 @@
+0.95 Self-emp-not-inc 0.1929653639100186 9th -1.6666666666666667 Married-civ-spouse Exec-managerial Other-relative White Male 3411.0 0.0 2.0 Columbia <=50K

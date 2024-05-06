@@ -1,0 +1,1 @@
+0.4 Self-emp-not-inc 1.1739173879916565 Bachelors 1.0 Never-married Sales Not-in-family White Male 14084.0 0.0 1.0 United-States >50K

@@ -1,0 +1,1 @@
+1.6 Self-emp-not-inc -0.7383328545317529 Some-college 0.0 Widowed Farming-fishing Not-in-family White Female 0.0 0.0 -5.2 United-States <=50K

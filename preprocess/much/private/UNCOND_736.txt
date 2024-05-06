@@ -1,0 +1,1 @@
+1.55 Self-emp-inc 0.9259980931206622 Assoc-acdm 0.6666666666666666 Married-civ-spouse Sales Husband White Male 9386.0 0.0 6.0 Germany >50K

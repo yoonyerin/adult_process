@@ -1,0 +1,1 @@
+0.3 Private 0.5498099365900168 HS-grad -0.3333333333333333 Married-civ-spouse Machine-op-inspct Husband White Male 0.0 0.0 -1.0 nan <=50K

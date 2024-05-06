@@ -1,0 +1,1 @@
+-0.2 Federal-gov -0.342118301461802 Some-college 0.0 Never-married Other-service Not-in-family White Female 0.0 0.0 -6.0 United-States <=50K

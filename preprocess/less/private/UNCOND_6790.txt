@@ -1,0 +1,1 @@
+0.25 State-gov -1.2813604626472317 Some-college 0.0 Divorced Transport-moving Unmarried White Male 0.0 0.0 -0.4 United-States <=50K

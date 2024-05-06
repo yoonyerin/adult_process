@@ -1,0 +1,1 @@
+1.15 Self-emp-not-inc 1.5142079164636963 Some-college 0.0 Married-civ-spouse Other-service Wife White Female 0.0 0.0 -5.6 United-States <=50K

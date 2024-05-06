@@ -1,0 +1,1 @@
+0.3 Self-emp-not-inc 1.1077595000478802 Some-college 0.0 Never-married Transport-moving Not-in-family Black Male 0.0 0.0 -2.0 United-States <=50K

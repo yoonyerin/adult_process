@@ -1,0 +1,1 @@
+0.6 Self-emp-inc -0.3856934087758084 Prof-school 1.6666666666666667 Widowed Prof-specialty Unmarried White Male 99999.0 0.0 2.0 United-States >50K

@@ -1,0 +1,1 @@
+1.55 Private 0.2209606841450061 HS-grad -0.3333333333333333 Married-civ-spouse Exec-managerial Husband White Male 0.0 0.0 -0.6 United-States <=50K

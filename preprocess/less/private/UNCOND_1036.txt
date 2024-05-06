@@ -1,0 +1,1 @@
+-0.75 Private 0.0297981122727253 Some-college 0.0 Married-civ-spouse Farming-fishing Husband White Male 0.0 0.0 -2.0 Germany <=50K

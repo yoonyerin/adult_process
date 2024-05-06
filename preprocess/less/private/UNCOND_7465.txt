@@ -1,0 +1,1 @@
+-0.6 Self-emp-not-inc 1.0600625356499005 Some-college 0.0 Never-married Machine-op-inspct Own-child White Male 0.0 0.0 0.0 United-States <=50K

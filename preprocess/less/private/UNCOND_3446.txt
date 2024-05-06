@@ -1,0 +1,1 @@
+0.25 nan 0.141388024964298 HS-grad -0.3333333333333333 Married-civ-spouse nan Husband White Male 0.0 0.0 4.0 Dominican-Republic <=50K

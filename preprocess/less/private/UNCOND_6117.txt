@@ -1,0 +1,1 @@
+1.3 Local-gov -1.0031559269390422 Masters 1.3333333333333333 Married-civ-spouse Prof-specialty Husband White Male 0.0 0.0 1.6 United-States <=50K

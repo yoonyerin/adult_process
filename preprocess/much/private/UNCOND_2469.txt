@@ -1,0 +1,1 @@
+0.15 Self-emp-not-inc 1.2241873904481166 Some-college 0.0 Married-civ-spouse Tech-support Husband White Male 0.0 0.0 2.0 United-States >50K

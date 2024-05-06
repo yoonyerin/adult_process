@@ -1,0 +1,1 @@
+0.25 Federal-gov -0.0486087691468588 HS-grad -0.3333333333333333 Married-civ-spouse Adm-clerical Husband White Male 0.0 0.0 1.6 United-States >50K

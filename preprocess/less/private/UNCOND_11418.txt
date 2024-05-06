@@ -1,0 +1,1 @@
+-0.75 Private 0.2971858957544872 Assoc-voc 0.3333333333333333 Never-married Sales Own-child White Female 0.0 0.0 -4.0 United-States <=50K

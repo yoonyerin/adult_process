@@ -1,0 +1,1 @@
+0.15 Self-emp-not-inc 0.1732720467310342 Assoc-acdm 0.6666666666666666 Never-married Prof-specialty Own-child Black Female 0.0 0.0 -7.6 United-States <=50K

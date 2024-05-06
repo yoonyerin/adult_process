@@ -1,0 +1,1 @@
+0.25 Private -0.0354438074301678 HS-grad -0.3333333333333333 Married-spouse-absent Adm-clerical Not-in-family White Male 0.0 0.0 2.4 United-States <=50K

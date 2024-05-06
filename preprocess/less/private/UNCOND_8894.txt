@@ -1,0 +1,1 @@
+0.45 Self-emp-not-inc -0.56731325697489 7th-8th -2.0 Married-civ-spouse Exec-managerial Husband White Male 0.0 0.0 7.0 Greece <=50K

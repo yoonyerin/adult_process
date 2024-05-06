@@ -1,0 +1,1 @@
+0.6 Local-gov 0.1394811456264598 Some-college 0.0 Married-civ-spouse Handlers-cleaners Husband White Male 7298.0 0.0 0.0 United-States

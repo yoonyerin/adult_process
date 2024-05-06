@@ -1,0 +1,1 @@
+-0.3 Local-gov -1.063376675285095 Some-college 0.0 Never-married Exec-managerial Own-child Amer-Indian-Eskimo Female 0.0 0.0 -1.6 United-States <=50K

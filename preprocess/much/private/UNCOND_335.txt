@@ -1,0 +1,1 @@
+0.25 Local-gov -0.2299205189376433 Masters 1.3333333333333333 Married-civ-spouse Protective-serv Husband White Male 7688.0 0.0 -1.0 United-States >50K

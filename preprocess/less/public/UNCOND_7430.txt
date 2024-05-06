@@ -1,0 +1,1 @@
+0.7 Local-gov -0.3678986439506543 HS-grad -0.3333333333333333 Separated Adm-clerical Not-in-family White Female 0.0 0.0 -1.0 nan <=50K

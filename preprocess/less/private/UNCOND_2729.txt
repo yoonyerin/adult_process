@@ -1,0 +1,1 @@
+0.8 nan -0.1907836940999154 12th -0.6666666666666666 Married-civ-spouse nan Wife White Female 0.0 0.0 0.0 Italy <=50K

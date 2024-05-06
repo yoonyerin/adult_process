@@ -1,0 +1,1 @@
+0.1 Private 0.3857183897278325 Some-college 0.0 Divorced Craft-repair Unmarried Black Male 0.0 0.0 -3.2 United-States <=50K

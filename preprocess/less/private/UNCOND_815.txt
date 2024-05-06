@@ -1,0 +1,1 @@
+-0.25 Private 0.4949351119771174 Assoc-voc 0.3333333333333333 Never-married Prof-specialty Not-in-family White Female 0.0 0.0 -0.4 United-States <=50K

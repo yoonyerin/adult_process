@@ -1,0 +1,1 @@
+0.45 Private -0.3122660637930244 HS-grad -0.3333333333333333 Married-spouse-absent Machine-op-inspct Not-in-family White Male 0.0 2258.0 2.0 United-States <=50K

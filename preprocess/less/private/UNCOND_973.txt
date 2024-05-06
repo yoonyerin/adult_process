@@ -1,0 +1,1 @@
+0.7 Private -0.2513958106943456 HS-grad -0.3333333333333333 Married-civ-spouse Adm-clerical Wife Black Female 3411.0 0.0 -0.4 United-States <=50K

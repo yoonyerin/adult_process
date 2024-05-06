@@ -1,0 +1,1 @@
+0.25 Private -0.3657586090605913 Assoc-voc 0.3333333333333333 Divorced Exec-managerial Own-child Amer-Indian-Eskimo Female 0.0 0.0 0.0 United-States <=50K

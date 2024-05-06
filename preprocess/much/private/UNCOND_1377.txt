@@ -1,0 +1,1 @@
+-0.3 Private -0.7826573904064817 Some-college 0.0 Married-civ-spouse Sales Husband White Male 0.0 0.0 -0.4 nan >50K

@@ -1,0 +1,1 @@
+-0.6 State-gov 0.6980885408209574 HS-grad -0.3333333333333333 Never-married Prof-specialty Not-in-family White Male 0.0 0.0 0.0 United-States <=50K

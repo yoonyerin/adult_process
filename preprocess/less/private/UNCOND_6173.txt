@@ -1,0 +1,1 @@
+1.25 Without-pay -0.0668698450764625 Assoc-acdm 0.6666666666666666 Married-civ-spouse Farming-fishing Husband White Male 0.0 0.0 2.0 United-States <=50K

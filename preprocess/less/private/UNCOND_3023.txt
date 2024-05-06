@@ -1,0 +1,1 @@
+-0.6 Self-emp-inc -0.1489156185075546 Bachelors 1.0 Never-married Exec-managerial Own-child Asian-Pac-Islander Male 0.0 0.0 -1.0 Taiwan <=50K

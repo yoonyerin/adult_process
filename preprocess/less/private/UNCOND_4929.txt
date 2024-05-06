@@ -1,0 +1,1 @@
+0.5 Self-emp-not-inc -0.0057248015055187 Some-college 0.0 Married-civ-spouse Other-service Husband Black Male 0.0 0.0 0.0 United-States <=50K

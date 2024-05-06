@@ -1,0 +1,1 @@
+-1.0 nan -0.5591278316949992 Some-college 0.0 Never-married nan Own-child Asian-Pac-Islander Female 0.0 0.0 0.0 Philippines <=50K

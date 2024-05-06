@@ -1,0 +1,1 @@
+0.6 Private 0.9311191882855988 Some-college 0.0 Separated Sales Not-in-family White Male 0.0 0.0 2.0 United-States <=50K

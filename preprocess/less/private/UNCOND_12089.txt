@@ -1,0 +1,1 @@
+-0.25 Self-emp-not-inc 0.0255430234446234 Some-college 0.0 Separated Farming-fishing Unmarried White Female 0.0 0.0 5.0 United-States <=50K

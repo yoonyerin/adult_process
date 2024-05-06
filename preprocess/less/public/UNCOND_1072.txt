@@ -1,0 +1,1 @@
+-0.85 State-gov 1.2987472052559923 Some-college 0.0 Married-civ-spouse Other-service Husband White Male 0.0 0.0 0.0 United-States <=50K

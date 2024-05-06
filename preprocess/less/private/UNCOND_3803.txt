@@ -1,0 +1,1 @@
+-0.8 Self-emp-not-inc 1.0530095801951012 Assoc-voc 0.3333333333333333 Never-married Farming-fishing Own-child White Male 0.0 0.0 11.6 United-States <=50K

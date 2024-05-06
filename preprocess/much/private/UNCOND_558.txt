@@ -1,0 +1,1 @@
+-0.3 Self-emp-not-inc 0.0278162900788149 Bachelors 1.0 Never-married Sales Not-in-family Black Male 0.0 0.0 0.0 United-States >50K

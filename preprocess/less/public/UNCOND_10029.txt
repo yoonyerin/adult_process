@@ -1,0 +1,1 @@
+1.15 Self-emp-not-inc -0.4885732961949846 Assoc-acdm 0.6666666666666666 Married-civ-spouse Exec-managerial Husband Asian-Pac-Islander Male 0.0 0.0 0.0 Japan <=50K

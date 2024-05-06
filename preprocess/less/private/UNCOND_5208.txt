@@ -1,0 +1,1 @@
+0.65 Self-emp-not-inc 0.1208203744644708 10th -1.3333333333333333 Never-married Craft-repair Not-in-family White Male 0.0 0.0 -3.0 United-States <=50K

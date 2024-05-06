@@ -1,0 +1,1 @@
+-0.05 Private -0.0133939537769117 Some-college 0.0 Separated Adm-clerical Other-relative Amer-Indian-Eskimo Female 0.0 0.0 0.4 United-States <=50K

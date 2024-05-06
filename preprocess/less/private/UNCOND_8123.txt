@@ -1,0 +1,1 @@
+1.1 nan 0.6788865156984466 Some-college 0.0 Married-civ-spouse nan Husband Other Male 0.0 0.0 0.0 Puerto-Rico <=50K

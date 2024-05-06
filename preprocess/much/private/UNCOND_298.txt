@@ -1,0 +1,1 @@
+-0.05 Self-emp-not-inc 0.2286797983204473 Bachelors 1.0 Divorced Prof-specialty Not-in-family Black Female 0.0 0.0 0.0 United-States >50K

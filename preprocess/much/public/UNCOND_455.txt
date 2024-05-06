@@ -1,0 +1,1 @@
+1.15 Self-emp-inc 0.4014480625189959 Assoc-voc 0.3333333333333333 Married-civ-spouse Machine-op-inspct Husband White Male 0.0 2415.0 6.0 nan >50K

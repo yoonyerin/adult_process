@@ -1,0 +1,1 @@
+-0.6 Local-gov 0.4141966750352856 Bachelors 1.0 Married-civ-spouse Adm-clerical Husband White Male 0.0 0.0 0.0 United-States <=50K

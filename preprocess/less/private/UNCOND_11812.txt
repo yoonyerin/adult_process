@@ -1,0 +1,1 @@
+-0.05 Self-emp-not-inc 0.0901604193469146 Doctorate 2.0 Separated Prof-specialty Unmarried White Female 0.0 0.0 -6.0 Canada <=50K

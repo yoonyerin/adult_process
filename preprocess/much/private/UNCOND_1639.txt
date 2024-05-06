@@ -1,0 +1,1 @@
+0.1 Self-emp-not-inc 1.3767127565231512 Bachelors 1.0 Married-civ-spouse Prof-specialty Husband White Male 15024.0 0.0 2.0 Japan >50K

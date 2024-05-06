@@ -1,0 +1,1 @@
+0.6 Self-emp-not-inc -0.1136591682175674 Assoc-acdm 0.6666666666666666 Married-civ-spouse Exec-managerial Husband White Male 0.0 0.0 -1.0 Germany <=50K

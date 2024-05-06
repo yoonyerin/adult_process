@@ -1,0 +1,1 @@
+0.7 Local-gov 0.5987892565252328 Some-college 0.0 Widowed Other-service Unmarried White Female 0.0 0.0 0.0 United-States <=50K

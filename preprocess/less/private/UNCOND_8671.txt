@@ -1,0 +1,1 @@
+1.25 State-gov -0.1535953835200659 Bachelors 1.0 Married-civ-spouse Adm-clerical Husband White Male 0.0 0.0 -0.4 United-States <=50K

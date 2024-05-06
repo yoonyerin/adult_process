@@ -1,0 +1,1 @@
+-0.45 nan -0.0361765820228742 Bachelors 1.0 Married-spouse-absent nan Not-in-family Asian-Pac-Islander Female 0.0 0.0 -6.0 Taiwan <=50K

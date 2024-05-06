@@ -1,0 +1,1 @@
+0.5 Federal-gov -0.2611217280157213 Assoc-voc 0.3333333333333333 Married-civ-spouse Adm-clerical Husband White Male 0.0 0.0 0.0 United-States <=50K

@@ -1,0 +1,1 @@
+-0.35 State-gov -1.291577672025081 Some-college 0.0 Never-married Other-service Own-child Amer-Indian-Eskimo Male 0.0 0.0 8.8 United-States <=50K

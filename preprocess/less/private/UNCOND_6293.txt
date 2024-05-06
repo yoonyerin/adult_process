@@ -1,0 +1,1 @@
+-0.5 Self-emp-inc 1.8465878101281104 HS-grad -0.3333333333333333 Never-married Craft-repair Other-relative White Male 0.0 0.0 2.0 Mexico <=50K

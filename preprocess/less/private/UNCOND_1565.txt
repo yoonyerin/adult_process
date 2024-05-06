@@ -1,0 +1,1 @@
+0.45 State-gov 1.5465749033028982 Some-college 0.0 Divorced Protective-serv Unmarried Amer-Indian-Eskimo Female 0.0 0.0 0.0 United-States <=50K

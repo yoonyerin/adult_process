@@ -1,0 +1,1 @@
+-0.15 Private 0.6203727990740394 Some-college 0.0 Married-civ-spouse Prof-specialty Husband White Male 7298.0 0.0 2.0 United-States >50K

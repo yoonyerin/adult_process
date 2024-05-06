@@ -1,0 +1,1 @@
+-0.45 Self-emp-not-inc 1.933579812059971 HS-grad -0.3333333333333333 Married-civ-spouse Exec-managerial Husband White Male 0.0 0.0 0.0 Poland <=50K

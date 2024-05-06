@@ -1,0 +1,1 @@
+-0.05 Local-gov 0.0006453412606221 Bachelors 1.0 Divorced Prof-specialty Not-in-family White Female 0.0 0.0 4.0 United-States <=50K

@@ -1,0 +1,1 @@
+0.2 Self-emp-inc -0.2621792549847408 Some-college 0.0 Divorced Machine-op-inspct Not-in-family White Female 0.0 0.0 0.0 Honduras <=50K

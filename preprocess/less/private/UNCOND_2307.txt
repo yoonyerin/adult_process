@@ -1,0 +1,1 @@
+-0.8 nan 1.489568370783944 Some-college 0.0 Married-civ-spouse nan Wife Black Female 2105.0 0.0 -4.0 United-States <=50K

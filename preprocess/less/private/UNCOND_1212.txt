@@ -1,0 +1,1 @@
+0.9 State-gov -1.2644899930469684 Assoc-voc 0.3333333333333333 Widowed Exec-managerial Not-in-family Amer-Indian-Eskimo Female 0.0 0.0 -0.4 United-States <=50K

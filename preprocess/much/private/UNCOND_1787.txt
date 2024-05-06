@@ -1,0 +1,1 @@
+0.6 Self-emp-inc 1.2416657298809657 Some-college 0.0 Married-civ-spouse Exec-managerial Wife White Female 0.0 1977.0 4.0 China >50K

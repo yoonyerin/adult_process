@@ -1,0 +1,1 @@
+-0.7 State-gov 1.7355391513970595 Some-college 0.0 Separated Prof-specialty Not-in-family White Female 0.0 0.0 -4.0 United-States <=50K

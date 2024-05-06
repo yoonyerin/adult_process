@@ -1,0 +1,1 @@
+1.0 Self-emp-inc 0.0172077124525882 Prof-school 1.6666666666666667 Married-civ-spouse Prof-specialty Husband Asian-Pac-Islander Male 0.0 0.0 2.0 Taiwan >50K

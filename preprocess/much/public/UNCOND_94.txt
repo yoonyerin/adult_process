@@ -1,0 +1,1 @@
+1.5 nan -0.1727141388024964 Prof-school 1.6666666666666667 Married-civ-spouse nan Husband White Male 6418.0 0.0 -6.0 United-States >50K

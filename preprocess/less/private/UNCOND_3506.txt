@@ -1,0 +1,1 @@
+0.0 Private 0.6803270839318353 Assoc-voc 0.3333333333333333 Married-civ-spouse Adm-clerical Husband White Male 3471.0 0.0 0.0 United-States <=50K

@@ -1,0 +1,1 @@
+0.85 Local-gov -0.2132082620335327 Some-college 0.0 Divorced Craft-repair Unmarried White Male 0.0 0.0 0.4 United-States <=50K

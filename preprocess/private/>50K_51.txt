@@ -1,0 +1,1 @@
+1.45 Self-emp-not-inc 0.8019426853690728 9th -1.6666666666666667 Married-civ-spouse Farming-fishing Husband White Male 0.0 0.0 -3.0 United-States

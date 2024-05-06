@@ -1,0 +1,1 @@
+-0.15 Local-gov 0.1150164666108758 Bachelors 1.0 Married-civ-spouse Craft-repair Husband Black Male 0.0 0.0 1.0 United-States >50K

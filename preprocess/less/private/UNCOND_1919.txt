@@ -1,0 +1,1 @@
+0.25 Local-gov 0.0983541716108134 Bachelors 1.0 Divorced Prof-specialty Unmarried Black Female 0.0 0.0 -2.0 United-States <=50K

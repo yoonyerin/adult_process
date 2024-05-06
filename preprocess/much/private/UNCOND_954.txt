@@ -1,0 +1,1 @@
+0.0 Private 0.3447496284083386 Assoc-voc 0.3333333333333333 Married-civ-spouse Craft-repair Husband White Male 4386.0 0.0 0.8 United-States >50K

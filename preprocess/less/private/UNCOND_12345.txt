@@ -1,0 +1,1 @@
+0.3 Self-emp-not-inc -0.2585153820212088 Some-college 0.0 Divorced Adm-clerical Unmarried White Female 0.0 0.0 -0.8 United-States <=50K

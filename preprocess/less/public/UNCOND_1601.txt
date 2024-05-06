@@ -1,0 +1,1 @@
+-0.5 Self-emp-inc -0.7363260513858183 Some-college 0.0 Separated Sales Own-child White Female 0.0 0.0 0.0 United-States <=50K

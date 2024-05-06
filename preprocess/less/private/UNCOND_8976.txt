@@ -1,0 +1,1 @@
+0.45 State-gov 1.2460623774372042 Assoc-voc 0.3333333333333333 Divorced Tech-support Not-in-family White Female 3325.0 0.0 0.4 United-States <=50K

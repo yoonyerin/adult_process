@@ -1,0 +1,1 @@
+-0.8 nan -0.1331026758763109 Some-college 0.0 Never-married nan Own-child Asian-Pac-Islander Male 0.0 0.0 0.0 Taiwan <=50K

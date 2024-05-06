@@ -1,0 +1,1 @@
+-0.8 Private -0.387408767481462 HS-grad -0.3333333333333333 Married-spouse-absent Machine-op-inspct Own-child White Female 0.0 0.0 0.0 Dominican-Republic <=50K

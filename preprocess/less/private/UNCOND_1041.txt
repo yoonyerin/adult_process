@@ -1,0 +1,1 @@
+-0.75 State-gov -1.2760978087541583 Some-college 0.0 Never-married Prof-specialty Not-in-family White Female 0.0 0.0 -1.6 United-States <=50K

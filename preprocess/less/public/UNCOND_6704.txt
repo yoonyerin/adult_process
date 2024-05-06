@@ -1,0 +1,1 @@
+-0.7 nan 1.0383041264369253 Assoc-acdm 0.6666666666666666 Married-civ-spouse nan Husband White Male 0.0 0.0 0.0 El-Salvador <=50K

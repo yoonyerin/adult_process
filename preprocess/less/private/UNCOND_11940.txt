@@ -1,0 +1,1 @@
+-0.45 Private -1.2382266854856503 HS-grad -0.3333333333333333 Married-civ-spouse Handlers-cleaners Husband Amer-Indian-Eskimo Male 0.0 0.0 0.0 United-States <=50K

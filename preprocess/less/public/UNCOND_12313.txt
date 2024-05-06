@@ -1,0 +1,1 @@
+0.3 State-gov -1.1625094199006591 Some-college 0.0 Divorced Exec-managerial Unmarried Black Female 0.0 0.0 -0.4 nan <=50K

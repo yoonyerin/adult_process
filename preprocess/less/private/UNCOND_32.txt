@@ -1,0 +1,1 @@
+-0.25 Self-emp-not-inc 0.0841150289570868 HS-grad -0.3333333333333333 Divorced Sales Own-child White Male 0.0 1590.0 4.4 United-States <=50K

@@ -1,0 +1,1 @@
+1.0 Private -0.5284179146733948 Assoc-voc 0.3333333333333333 Divorced Tech-support Not-in-family White Female 2202.0 0.0 0.8 United-States <=50K

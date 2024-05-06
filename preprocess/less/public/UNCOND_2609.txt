@@ -1,0 +1,1 @@
+2.5 Private -0.2878680006495047 HS-grad -0.3333333333333333 Married-spouse-absent Sales Not-in-family White Male 0.0 0.0 -4.8 United-States <=50K

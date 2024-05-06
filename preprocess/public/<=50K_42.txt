@@ -1,0 +1,1 @@
+1.75 Self-emp-not-inc 0.2113263636477186 Prof-school 1.6666666666666667 Married-civ-spouse Exec-managerial Husband White Male 0.0 0.0 -6.0 United-States

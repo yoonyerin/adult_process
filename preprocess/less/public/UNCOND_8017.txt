@@ -1,0 +1,1 @@
+0.15 Private 1.6339416195151195 Assoc-voc 0.3333333333333333 Separated Sales Not-in-family Black Male 0.0 0.0 0.8 United-States <=50K

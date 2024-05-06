@@ -1,0 +1,1 @@
+0.25 Local-gov 0.0729818513383545 Assoc-acdm 0.6666666666666666 Married-civ-spouse Exec-managerial Wife White Female 0.0 0.0 1.0 United-States >50K

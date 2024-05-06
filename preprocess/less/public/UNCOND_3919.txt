@@ -1,0 +1,1 @@
+-0.15 Self-emp-inc -0.1991606400119908 Some-college 0.0 Never-married Sales Not-in-family White Male 0.0 0.0 7.0 United-States <=50K

@@ -1,0 +1,1 @@
+0.55 Self-emp-not-inc 0.2574078931481412 Bachelors 1.0 Married-spouse-absent Sales Own-child White Male 0.0 0.0 2.0 United-States >50K

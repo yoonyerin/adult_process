@@ -1,0 +1,1 @@
+0.05 Local-gov 1.970551621055612 Bachelors 1.0 Married-civ-spouse Exec-managerial Husband White Male 0.0 0.0 0.4 United-States >50K

@@ -1,0 +1,1 @@
+1.8 Local-gov -0.1425371487574058 5th-6th -2.333333333333333 Married-civ-spouse Protective-serv Husband White Male 0.0 0.0 -4.0 United-States <=50K

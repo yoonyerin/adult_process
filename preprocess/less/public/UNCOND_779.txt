@@ -1,0 +1,1 @@
+2.2 Self-emp-not-inc -0.4512017919669585 Bachelors 1.0 Widowed Prof-specialty Not-in-family White Female 0.0 1668.0 -7.4 Hungary <=50K

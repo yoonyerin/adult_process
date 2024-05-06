@@ -1,0 +1,1 @@
+0.05 Federal-gov -0.4634091505227264 Bachelors 1.0 Married-civ-spouse Prof-specialty Husband White Male 4064.0 0.0 0.0 United-States <=50K

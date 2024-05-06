@@ -1,0 +1,1 @@
+0.45 State-gov -0.8499310942073336 Assoc-voc 0.3333333333333333 Divorced Adm-clerical Own-child White Female 0.0 0.0 -4.0 United-States <=50K

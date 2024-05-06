@@ -1,0 +1,1 @@
+-0.9 nan -0.8872609635153196 Some-college 0.0 Never-married nan Own-child Asian-Pac-Islander Female 0.0 0.0 0.0 United-States <=50K

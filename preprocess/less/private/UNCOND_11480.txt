@@ -1,0 +1,1 @@
+1.0 nan 0.9856775875061932 Some-college 0.0 Married-civ-spouse nan Husband White Male 0.0 0.0 2.0 United-States <=50K

@@ -1,0 +1,1 @@
+0.15 Federal-gov -0.3946615705524537 Some-college 0.0 Divorced Exec-managerial Not-in-family Black Female 0.0 0.0 0.0 United-States <=50K

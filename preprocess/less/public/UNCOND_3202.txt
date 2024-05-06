@@ -1,0 +1,1 @@
+-0.2 Self-emp-not-inc 1.1023303064746464 12th -0.6666666666666666 Never-married Craft-repair Not-in-family Black Male 0.0 0.0 -1.6 United-States <=50K

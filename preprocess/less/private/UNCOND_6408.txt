@@ -1,0 +1,1 @@
+0.25 Self-emp-not-inc -0.5231136258602815 Doctorate 2.0 Never-married Prof-specialty Not-in-family White Male 0.0 0.0 -6.6 nan <=50K

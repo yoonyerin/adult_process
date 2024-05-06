@@ -1,0 +1,1 @@
+-0.85 Self-emp-inc 2.3946782245204696 HS-grad -0.3333333333333333 Divorced Handlers-cleaners Own-child White Male 0.0 0.0 -3.0 United-States <=50K

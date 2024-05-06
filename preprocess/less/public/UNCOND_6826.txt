@@ -1,0 +1,1 @@
+-0.45 Private -0.2878013847774405 HS-grad -0.3333333333333333 Married-spouse-absent Other-service Not-in-family Asian-Pac-Islander Female 0.0 0.0 0.0 South <=50K

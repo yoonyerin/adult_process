@@ -1,0 +1,1 @@
+-0.2 Private 0.0209132203361603 Some-college 0.0 Married-spouse-absent Craft-repair Not-in-family White Male 0.0 0.0 0.0 nan <=50K

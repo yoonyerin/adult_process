@@ -1,0 +1,1 @@
+-0.55 State-gov -0.213899401706199 HS-grad -0.3333333333333333 Never-married Protective-serv Not-in-family White Male 0.0 0.0 0.0 United-States <=50K

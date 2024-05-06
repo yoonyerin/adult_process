@@ -1,0 +1,1 @@
+1.2 Self-emp-not-inc 0.1925906496296573 Some-college 0.0 Widowed Machine-op-inspct Not-in-family White Female 0.0 0.0 0.0 United-States <=50K

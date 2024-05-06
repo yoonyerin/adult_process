@@ -1,0 +1,1 @@
+0.3 State-gov 0.5276101972246162 Bachelors 1.0 Divorced Prof-specialty Unmarried White Female 1506.0 0.0 -0.8 United-States <=50K

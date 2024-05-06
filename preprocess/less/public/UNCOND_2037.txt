@@ -1,0 +1,1 @@
+0.5 State-gov -0.8810906683653714 HS-grad -0.3333333333333333 Divorced Adm-clerical Unmarried Asian-Pac-Islander Female 0.0 0.0 0.0 United-States <=50K

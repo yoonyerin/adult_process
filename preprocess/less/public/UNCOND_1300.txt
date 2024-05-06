@@ -1,0 +1,1 @@
+0.25 nan 1.1902715845834215 Masters 1.3333333333333333 Married-civ-spouse nan Husband White Male 0.0 0.0 2.0 United-States <=50K

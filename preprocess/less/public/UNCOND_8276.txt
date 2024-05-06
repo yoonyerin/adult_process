@@ -1,0 +1,1 @@
+0.3 Private 0.2937052164391318 Some-college 0.0 Married-civ-spouse Machine-op-inspct Husband White Male 0.0 0.0 0.0 Mexico <=50K

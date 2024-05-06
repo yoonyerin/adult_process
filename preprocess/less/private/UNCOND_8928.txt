@@ -1,0 +1,1 @@
+0.35 Private 1.2525157900434252 Assoc-voc 0.3333333333333333 Married-civ-spouse Adm-clerical Other-relative White Female 0.0 0.0 -4.0 United-States <=50K

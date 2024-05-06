@@ -1,0 +1,1 @@
+-0.05 State-gov 1.2122548223646137 Some-college 0.0 Never-married Tech-support Unmarried Black Female 0.0 0.0 0.0 United-States <=50K

@@ -1,0 +1,1 @@
+-0.5 Local-gov -0.9269640232655934 Bachelors 1.0 Never-married Prof-specialty Not-in-family Amer-Indian-Eskimo Female 3325.0 0.0 0.6 United-States <=50K

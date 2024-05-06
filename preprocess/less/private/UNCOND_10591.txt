@@ -1,0 +1,1 @@
+-0.2 Local-gov 0.9569245117264752 Bachelors 1.0 Married-spouse-absent Prof-specialty Other-relative Black Male 0.0 0.0 0.0 nan <=50K

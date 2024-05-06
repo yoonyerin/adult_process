@@ -1,0 +1,1 @@
+1.15 Self-emp-not-inc -0.2620543502246203 HS-grad -0.3333333333333333 Divorced Craft-repair Not-in-family Black Male 0.0 0.0 2.0 nan <=50K

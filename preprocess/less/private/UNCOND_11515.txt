@@ -1,0 +1,1 @@
+-0.25 Local-gov 0.3260139143902774 HS-grad -0.3333333333333333 Married-civ-spouse Transport-moving Wife White Female 4064.0 0.0 -3.6 United-States <=50K

@@ -1,0 +1,1 @@
+-0.05 Self-emp-not-inc -0.5466456826669664 Prof-school 1.6666666666666667 Divorced Prof-specialty Unmarried White Male 25236.0 0.0 0.0 United-States >50K

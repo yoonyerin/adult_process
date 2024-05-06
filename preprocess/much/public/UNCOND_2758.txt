@@ -1,0 +1,1 @@
+0.8 Self-emp-inc -0.360479301199502 Assoc-voc 0.3333333333333333 Married-civ-spouse Exec-managerial Husband White Male 0.0 0.0 0.0 Greece >50K

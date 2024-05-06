@@ -1,0 +1,1 @@
+1.55 Self-emp-not-inc -0.7422132290794936 Doctorate 2.0 Married-civ-spouse Prof-specialty Husband White Male 0.0 0.0 2.0 Canada <=50K

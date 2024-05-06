@@ -1,0 +1,1 @@
+1.0 nan -0.4539247157375834 Bachelors 1.0 Never-married nan Not-in-family Black Female 0.0 0.0 -1.0 United-States <=50K

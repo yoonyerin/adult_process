@@ -1,0 +1,1 @@
+0.85 Self-emp-inc -0.6191154244888273 Masters 1.3333333333333333 Divorced Exec-managerial Unmarried White Female 5721.0 0.0 -1.0 United-States <=50K

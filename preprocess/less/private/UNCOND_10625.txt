@@ -1,0 +1,1 @@
+-0.25 nan -1.3679777502987305 HS-grad -0.3333333333333333 Never-married nan Not-in-family Amer-Indian-Eskimo Female 0.0 0.0 -0.4 United-States <=50K

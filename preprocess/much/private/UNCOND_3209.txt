@@ -1,0 +1,1 @@
+-0.3 Self-emp-not-inc 1.4147004575677713 Bachelors 1.0 Married-civ-spouse Prof-specialty Husband White Male 0.0 1902.0 2.0 Puerto-Rico >50K

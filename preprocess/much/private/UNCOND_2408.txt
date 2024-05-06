@@ -1,0 +1,1 @@
+-0.05 Federal-gov 0.6285415703859141 Some-college 0.0 Married-civ-spouse Adm-clerical Husband White Male 0.0 0.0 0.0 Puerto-Rico >50K

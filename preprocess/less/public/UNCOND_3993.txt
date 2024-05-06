@@ -1,0 +1,1 @@
+-0.75 Private -0.2115095572958952 Some-college 0.0 Never-married Adm-clerical Not-in-family Asian-Pac-Islander Female 0.0 0.0 -6.0 United-States <=50K

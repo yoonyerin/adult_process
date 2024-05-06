@@ -1,0 +1,1 @@
+-0.55 Self-emp-not-inc 0.1876610750969052 HS-grad -0.3333333333333333 Married-civ-spouse Exec-managerial Husband White Male 0.0 0.0 0.0 Outlying-US(Guam-USVI-etc) <=50K

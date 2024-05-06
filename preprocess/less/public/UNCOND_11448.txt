@@ -1,0 +1,1 @@
+0.3 State-gov -0.2775675214315751 Prof-school 1.6666666666666667 Divorced Prof-specialty Not-in-family White Male 0.0 0.0 2.0 United-States <=50K

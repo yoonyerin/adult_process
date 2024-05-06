@@ -1,0 +1,1 @@
+1.05 Private 0.4786308772894002 Assoc-voc 0.3333333333333333 Married-civ-spouse Exec-managerial Husband White Male 0.0 0.0 0.0 Germany >50K

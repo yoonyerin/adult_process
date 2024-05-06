@@ -1,0 +1,1 @@
+0.5 Private 0.1218362665134501 Bachelors 1.0 Married-civ-spouse Prof-specialty Husband White Male 0.0 0.0 2.0 United-States <=50K

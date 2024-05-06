@@ -1,0 +1,1 @@
+0.15 Self-emp-inc -0.0688350133023569 Assoc-acdm 0.6666666666666666 Married-civ-spouse Exec-managerial Wife White Female 0.0 0.0 0.0 United-States

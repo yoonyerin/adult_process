@@ -1,0 +1,1 @@
+-0.8 Private -0.7240770579100103 Some-college 0.0 Never-married Sales Unmarried White Male 0.0 0.0 4.0 United-States <=50K

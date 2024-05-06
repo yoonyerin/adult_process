@@ -1,0 +1,1 @@
+-0.45 Private 0.4059113259472985 Some-college 0.0 Never-married Adm-clerical Unmarried Asian-Pac-Islander Female 0.0 0.0 -2.0 nan <=50K

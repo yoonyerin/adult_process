@@ -1,0 +1,1 @@
+0.35 State-gov 0.5564881777644546 Bachelors 1.0 Married-civ-spouse Protective-serv Husband White Male 0.0 0.0 0.8 United-States >50K

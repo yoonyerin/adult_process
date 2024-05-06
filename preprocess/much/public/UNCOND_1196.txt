@@ -1,0 +1,1 @@
+0.0 Local-gov 0.6099640690640054 Assoc-acdm 0.6666666666666666 Married-civ-spouse Prof-specialty Husband White Male 0.0 0.0 1.0 Canada >50K

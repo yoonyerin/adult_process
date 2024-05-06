@@ -1,0 +1,1 @@
+0.75 Local-gov -0.2067798303793357 Assoc-acdm 0.6666666666666666 Married-civ-spouse Protective-serv Husband White Male 0.0 0.0 0.0 United-States >50K

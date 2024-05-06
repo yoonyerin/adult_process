@@ -1,0 +1,1 @@
+1.5 Self-emp-not-inc 0.3309767968590616 Doctorate 2.0 Married-civ-spouse Prof-specialty Husband White Male 10605.0 0.0 -1.0 United-States

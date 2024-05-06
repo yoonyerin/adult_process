@@ -1,0 +1,1 @@
+0.4 Self-emp-inc -0.4657989949330302 Assoc-acdm 0.6666666666666666 Married-civ-spouse Exec-managerial Husband White Male 0.0 0.0 2.0 United-States >50K

@@ -1,0 +1,1 @@
+1.0 Private 0.2295208237052581 Some-college 0.0 Married-civ-spouse Craft-repair Husband White Male 0.0 0.0 0.0 Poland <=50K

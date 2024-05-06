@@ -1,0 +1,1 @@
+0.1 Private -1.1166776999204773 Assoc-acdm 0.6666666666666666 Married-spouse-absent Adm-clerical Other-relative White Male 0.0 0.0 4.0 United-States <=50K

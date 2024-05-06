@@ -1,0 +1,1 @@
+0.2 Private -0.2950042259443841 Some-college 0.0 Divorced Tech-support Unmarried Black Female 0.0 0.0 -0.8 United-States <=50K

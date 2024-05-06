@@ -1,0 +1,1 @@
+-0.75 nan 0.7494327242144532 HS-grad -0.3333333333333333 Never-married nan Not-in-family White Female 0.0 0.0 0.0 United-States <=50K

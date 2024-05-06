@@ -1,0 +1,1 @@
+0.7 Self-emp-not-inc 0.1341851837973545 Masters 1.3333333333333333 Married-civ-spouse Prof-specialty Wife White Female 15024.0 0.0 3.0 nan >50K

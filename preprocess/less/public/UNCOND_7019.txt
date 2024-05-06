@@ -1,0 +1,1 @@
+-0.4 Private -0.6032941548735755 HS-grad -0.3333333333333333 Married-civ-spouse Handlers-cleaners Husband White Male 0.0 0.0 0.4 United-States <=50K

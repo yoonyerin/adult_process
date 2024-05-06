@@ -1,0 +1,1 @@
+0.1 Local-gov -1.212054974748421 Some-college 0.0 Married-civ-spouse Exec-managerial Husband Amer-Indian-Eskimo Male 0.0 1485.0 0.0 United-States >50K

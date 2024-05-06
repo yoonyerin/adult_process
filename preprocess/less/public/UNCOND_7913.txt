@@ -1,0 +1,1 @@
+-0.65 Self-emp-not-inc -1.1716441213574649 Bachelors 1.0 Never-married Farming-fishing Unmarried White Male 0.0 0.0 2.0 United-States <=50K

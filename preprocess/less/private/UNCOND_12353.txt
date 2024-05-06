@@ -1,0 +1,1 @@
+-0.35 Private 1.2597103042263609 Some-college 0.0 Married-civ-spouse Machine-op-inspct Husband White Male 0.0 0.0 0.0 United-States <=50K

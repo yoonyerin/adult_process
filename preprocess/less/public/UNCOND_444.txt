@@ -1,0 +1,1 @@
+0.3 Local-gov -1.1675056103054755 Assoc-acdm 0.6666666666666666 Married-civ-spouse Tech-support Husband White Male 0.0 0.0 0.6 United-States <=50K

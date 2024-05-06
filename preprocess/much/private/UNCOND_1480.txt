@@ -1,0 +1,1 @@
+0.05 Self-emp-not-inc 0.544080971592494 Bachelors 1.0 Married-civ-spouse Adm-clerical Wife White Female 0.0 0.0 -2.4 United-States >50K

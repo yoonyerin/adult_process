@@ -1,0 +1,1 @@
+-0.15 State-gov 2.789169091900759 Bachelors 1.0 Married-spouse-absent Farming-fishing Not-in-family Black Male 0.0 0.0 0.0 nan <=50K

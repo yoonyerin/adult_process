@@ -1,0 +1,1 @@
+-0.2 State-gov -0.0330872709558961 Some-college 0.0 Separated Tech-support Not-in-family White Male 0.0 0.0 -5.6 United-States <=50K

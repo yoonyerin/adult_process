@@ -1,0 +1,1 @@
+1.4 Self-emp-inc 0.0567941944267496 Doctorate 2.0 Married-civ-spouse Exec-managerial Husband White Male 99999.0 0.0 0.0 United-States >50K

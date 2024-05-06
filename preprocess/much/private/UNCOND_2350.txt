@@ -1,0 +1,1 @@
+0.3 Private -0.5143203307478048 HS-grad -0.3333333333333333 Married-civ-spouse Exec-managerial Husband Asian-Pac-Islander Male 0.0 0.0 4.0 China >50K

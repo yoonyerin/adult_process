@@ -1,0 +1,1 @@
+0.2 Self-emp-inc 0.8303127198844215 Bachelors 1.0 Widowed Exec-managerial Not-in-family Black Female 0.0 0.0 1.0 United-States <=50K

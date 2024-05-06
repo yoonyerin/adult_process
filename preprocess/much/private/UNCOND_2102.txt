@@ -1,0 +1,1 @@
+-0.05 Local-gov -0.3957357514894892 HS-grad -0.3333333333333333 Married-civ-spouse Adm-clerical Wife Asian-Pac-Islander Female 0.0 0.0 0.0 China >50K

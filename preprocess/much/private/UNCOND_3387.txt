@@ -1,0 +1,1 @@
+-0.1 Self-emp-not-inc 2.3705882597852472 HS-grad -0.3333333333333333 Married-civ-spouse Craft-repair Wife Black Female 0.0 0.0 0.0 United-States >50K

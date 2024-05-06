@@ -1,0 +1,1 @@
+-0.2 Self-emp-inc 0.8634041543323216 Doctorate 2.0 Married-civ-spouse Prof-specialty Husband White Male 0.0 0.0 0.0 Cuba >50K

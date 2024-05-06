@@ -1,0 +1,1 @@
+1.75 nan 1.866589225715392 Some-college 0.0 Married-civ-spouse nan Husband White Male 0.0 0.0 -1.6 Canada <=50K

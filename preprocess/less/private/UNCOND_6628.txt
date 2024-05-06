@@ -1,0 +1,1 @@
+-0.05 Private -0.0133273379048475 Some-college 0.0 Never-married Other-service Not-in-family White Male 0.0 0.0 1.6 United-States <=50K

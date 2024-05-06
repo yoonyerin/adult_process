@@ -1,0 +1,1 @@
+-0.9 Local-gov 0.6746897157584009 Some-college 0.0 Never-married Prof-specialty Own-child White Female 0.0 0.0 -2.0 United-States <=50K

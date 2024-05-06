@@ -1,0 +1,1 @@
+0.7 State-gov 0.1519716216385006 HS-grad -0.3333333333333333 Married-civ-spouse Prof-specialty Husband Black Male 0.0 0.0 4.0 United-States >50K

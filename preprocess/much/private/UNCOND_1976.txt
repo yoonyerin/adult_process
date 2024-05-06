@@ -1,0 +1,1 @@
+0.3 Private -0.549277009613503 Assoc-voc 0.3333333333333333 Married-civ-spouse Tech-support Wife White Female 0.0 1902.0 -1.6 United-States >50K

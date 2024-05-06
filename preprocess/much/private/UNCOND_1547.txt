@@ -1,0 +1,1 @@
+1.1 Private -0.5223558703155511 Some-college 0.0 Married-civ-spouse Exec-managerial Husband White Male 0.0 0.0 0.0 United-States >50K

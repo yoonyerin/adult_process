@@ -1,0 +1,1 @@
+2.65 Local-gov 0.0799765179050973 Assoc-acdm 0.6666666666666666 Married-civ-spouse Adm-clerical Husband Asian-Pac-Islander Male 0.0 0.0 -4.0 Philippines <=50K

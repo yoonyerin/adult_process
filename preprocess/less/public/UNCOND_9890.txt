@@ -1,0 +1,1 @@
+1.1 Self-emp-not-inc -0.6156014372374398 Prof-school 1.6666666666666667 Married-civ-spouse Sales Husband White Male 0.0 0.0 -3.0 United-States <=50K

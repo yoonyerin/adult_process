@@ -1,0 +1,1 @@
+0.1 Private 0.2418197790851142 Some-college 0.0 Married-civ-spouse Exec-managerial Wife White Female 0.0 0.0 -1.0 Puerto-Rico >50K

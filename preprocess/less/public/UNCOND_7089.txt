@@ -1,0 +1,1 @@
+0.1 State-gov 1.6153141562891629 Masters 1.3333333333333333 Married-civ-spouse Prof-specialty Husband Black Male 5013.0 0.0 3.2 United-States <=50K

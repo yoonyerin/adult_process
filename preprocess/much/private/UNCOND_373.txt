@@ -1,0 +1,1 @@
+0.15 Self-emp-not-inc -1.259477148674136 Bachelors 1.0 Married-AF-spouse Prof-specialty Husband White Male 7298.0 0.0 2.0 United-States >50K

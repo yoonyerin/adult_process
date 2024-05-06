@@ -1,0 +1,1 @@
+0.15 State-gov 1.7785730047505444 Assoc-voc 0.3333333333333333 Married-civ-spouse Craft-repair Husband White Male 0.0 0.0 0.0 United-States <=50K

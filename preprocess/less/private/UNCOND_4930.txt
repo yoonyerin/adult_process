@@ -1,0 +1,1 @@
+-0.8 nan 0.3005499972937302 HS-grad -0.3333333333333333 Married-spouse-absent nan Own-child White Female 0.0 0.0 0.0 United-States <=50K

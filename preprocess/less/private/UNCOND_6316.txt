@@ -1,0 +1,1 @@
+0.95 nan 2.059700311845551 Assoc-acdm 0.6666666666666666 Married-civ-spouse nan Husband White Male 0.0 0.0 -4.0 United-States <=50K

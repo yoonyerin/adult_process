@@ -1,0 +1,1 @@
+0.25 Private -1.1056694270618652 Assoc-acdm 0.6666666666666666 Married-civ-spouse Prof-specialty Husband White Male 0.0 0.0 2.0 United-States <=50K

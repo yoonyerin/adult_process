@@ -1,0 +1,1 @@
+1.25 Self-emp-inc -0.339661841179434 Masters 1.3333333333333333 Married-civ-spouse Prof-specialty Husband Asian-Pac-Islander Male 0.0 0.0 0.0 South <=50K

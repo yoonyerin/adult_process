@@ -1,0 +1,1 @@
+-0.65 nan -1.211813492212188 Bachelors 1.0 Divorced nan Not-in-family White Female 0.0 0.0 0.0 United-States <=50K

@@ -1,0 +1,1 @@
+1.35 Federal-gov 1.4600075775554473 Some-college 0.0 Married-civ-spouse Exec-managerial Husband Amer-Indian-Eskimo Male 0.0 0.0 1.0 United-States >50K

@@ -1,0 +1,1 @@
+0.35 Private 0.1602486437424796 HS-grad -0.3333333333333333 Married-spouse-absent Machine-op-inspct Unmarried White Female 0.0 0.0 0.0 United-States <=50K

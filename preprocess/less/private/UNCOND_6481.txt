@@ -1,0 +1,1 @@
+-0.65 Private 0.3234158953797729 Some-college 0.0 Married-civ-spouse Other-service Own-child Asian-Pac-Islander Female 0.0 0.0 -1.0 United-States <=50K

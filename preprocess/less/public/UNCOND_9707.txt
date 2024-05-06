@@ -1,0 +1,1 @@
+1.2 Federal-gov 0.0013947698213445 Some-college 0.0 Married-civ-spouse Prof-specialty Husband White Male 0.0 0.0 0.0 United-States <=50K

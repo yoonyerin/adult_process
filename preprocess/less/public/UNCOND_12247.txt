@@ -1,0 +1,1 @@
+0.05 Local-gov 1.3431217030347693 Some-college 0.0 Married-civ-spouse Transport-moving Husband Black Male 0.0 0.0 0.0 United-States <=50K

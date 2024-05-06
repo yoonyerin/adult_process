@@ -1,0 +1,1 @@
+-0.2 Self-emp-not-inc -0.8554102496846154 HS-grad -0.3333333333333333 Separated Other-service Unmarried White Female 0.0 0.0 -6.4 United-States <=50K

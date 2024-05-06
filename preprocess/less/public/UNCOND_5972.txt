@@ -1,0 +1,1 @@
+-0.25 Private -0.0845563591095123 HS-grad -0.3333333333333333 Married-civ-spouse Exec-managerial Husband White Male 0.0 0.0 0.0 Ireland <=50K

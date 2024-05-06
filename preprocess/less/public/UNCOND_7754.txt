@@ -1,0 +1,1 @@
+1.4 Private 0.0360183693267217 Assoc-voc 0.3333333333333333 Married-spouse-absent Craft-repair Not-in-family White Male 0.0 0.0 -4.0 United-States <=50K

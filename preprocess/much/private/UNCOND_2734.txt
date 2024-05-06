@@ -1,0 +1,1 @@
+1.6 State-gov -1.0631601737008864 Prof-school 1.6666666666666667 Married-civ-spouse Adm-clerical Husband White Male 0.0 0.0 -1.2 United-States >50K

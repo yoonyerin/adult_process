@@ -1,0 +1,1 @@
+-0.65 Local-gov 0.1271655362785875 Some-college 0.0 Never-married Protective-serv Own-child White Female 0.0 0.0 0.0 United-States <=50K

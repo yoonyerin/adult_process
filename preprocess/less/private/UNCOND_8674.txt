@@ -1,0 +1,1 @@
+1.35 Local-gov 0.0956728827602286 Some-college 0.0 Widowed Exec-managerial Not-in-family White Male 0.0 0.0 2.0 United-States <=50K

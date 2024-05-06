@@ -1,0 +1,1 @@
+-0.1 Local-gov 0.2143240778906084 Some-college 0.0 Divorced Tech-support Unmarried White Female 0.0 0.0 0.0 United-States <=50K

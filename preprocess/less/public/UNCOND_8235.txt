@@ -1,0 +1,1 @@
+0.15 nan -0.3044470258094869 Bachelors 1.0 Never-married nan Unmarried Black Female 0.0 0.0 -1.0 United-States <=50K

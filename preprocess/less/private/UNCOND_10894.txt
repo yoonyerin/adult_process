@@ -1,0 +1,1 @@
+0.95 Self-emp-not-inc 0.8967120903644304 Masters 1.3333333333333333 Married-civ-spouse Sales Wife White Female 0.0 0.0 6.0 United-States <=50K

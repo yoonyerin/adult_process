@@ -1,0 +1,1 @@
+-0.7 Local-gov 0.869624411386318 Assoc-voc 0.3333333333333333 Divorced Tech-support Not-in-family White Male 0.0 0.0 3.2 United-States <=50K

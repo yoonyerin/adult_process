@@ -1,0 +1,1 @@
+0.7 Local-gov -0.2661595533405778 9th -1.6666666666666667 Married-civ-spouse Transport-moving Husband Black Male 0.0 0.0 0.0 United-States <=50K

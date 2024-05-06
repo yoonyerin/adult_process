@@ -1,0 +1,1 @@
+0.35 Private 0.1324365171556688 Some-college 0.0 Divorced Other-service Unmarried Black Female 0.0 0.0 -1.0 United-States <=50K

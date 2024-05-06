@@ -1,0 +1,1 @@
+0.75 Self-emp-not-inc -0.475524912254406 HS-grad -0.3333333333333333 Widowed Other-service Unmarried Black Female 0.0 0.0 0.6 United-States <=50K

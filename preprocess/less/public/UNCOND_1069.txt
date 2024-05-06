@@ -1,0 +1,1 @@
+0.05 Private 0.0937576764383824 HS-grad -0.3333333333333333 Married-spouse-absent Other-service Not-in-family White Male 0.0 0.0 -1.0 nan <=50K

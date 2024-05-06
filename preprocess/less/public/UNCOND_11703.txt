@@ -1,0 +1,1 @@
+1.05 Private 0.6777124109533148 Some-college 0.0 Married-civ-spouse Transport-moving Husband White Male 0.0 0.0 6.0 United-States <=50K

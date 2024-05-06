@@ -1,0 +1,1 @@
+0.15 Local-gov 1.6017578263240946 Some-college 0.0 Married-civ-spouse Handlers-cleaners Husband White Male 0.0 0.0 0.0 Mexico <=50K

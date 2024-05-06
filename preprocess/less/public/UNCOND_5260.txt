@@ -1,0 +1,1 @@
+1.75 Self-emp-not-inc -0.3322175174762576 11th -1.0 Married-civ-spouse Craft-repair Husband White Male 0.0 0.0 -4.0 United-States <=50K

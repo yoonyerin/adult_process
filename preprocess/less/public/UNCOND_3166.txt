@@ -1,0 +1,1 @@
+0.8 Local-gov -0.3146392542353122 Preschool -3.0 Never-married Machine-op-inspct Not-in-family White Female 0.0 0.0 -1.0 United-States <=50K

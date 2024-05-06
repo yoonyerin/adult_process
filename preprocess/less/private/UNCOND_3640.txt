@@ -1,0 +1,1 @@
+-0.85 Private -0.0711499148565885 Some-college 0.0 Never-married Prof-specialty Own-child White Female 2176.0 0.0 -5.6 United-States <=50K

@@ -1,0 +1,1 @@
+0.15 Self-emp-not-inc -0.2180379127581885 Some-college 0.0 Divorced Craft-repair Unmarried White Female 0.0 0.0 -0.4 United-States

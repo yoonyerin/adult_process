@@ -1,0 +1,1 @@
+-0.3 Self-emp-not-inc 0.0689099561584292 Masters 1.3333333333333333 Separated Tech-support Not-in-family White Female 0.0 0.0 -3.0 United-States <=50K

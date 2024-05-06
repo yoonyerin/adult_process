@@ -1,0 +1,1 @@
+1.5 nan -0.8025838631376908 HS-grad -0.3333333333333333 Divorced nan Own-child White Male 0.0 0.0 -4.0 United-States <=50K

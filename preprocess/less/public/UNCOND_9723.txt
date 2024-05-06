@@ -1,0 +1,1 @@
+0.55 Self-emp-not-inc -1.053567488123639 Bachelors 1.0 Separated Craft-repair Not-in-family White Male 0.0 0.0 2.0 United-States <=50K

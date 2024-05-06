@@ -1,0 +1,1 @@
+-0.75 Local-gov 0.4968419913149556 Assoc-acdm 0.6666666666666666 Never-married Adm-clerical Own-child Black Female 0.0 0.0 -1.0 Haiti <=50K

@@ -1,0 +1,1 @@
+0.25 State-gov 0.305071549610089 Bachelors 1.0 Never-married Prof-specialty Unmarried White Male 0.0 1876.0 -0.4 United-States <=50K

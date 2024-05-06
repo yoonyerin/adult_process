@@ -1,0 +1,1 @@
+0.35 Private -0.9182206900571648 Some-college 0.0 Divorced Sales Unmarried White Male 0.0 625.0 2.0 United-States <=50K

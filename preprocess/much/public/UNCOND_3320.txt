@@ -1,0 +1,1 @@
+-0.2 Local-gov 1.4499985427777986 Some-college 0.0 Married-civ-spouse Adm-clerical Husband White Male 3103.0 0.0 1.0 United-States >50K

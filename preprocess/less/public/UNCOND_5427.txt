@@ -1,0 +1,1 @@
+-0.25 Private 0.1780683895196579 Some-college 0.0 Separated Tech-support Not-in-family Amer-Indian-Eskimo Male 0.0 1980.0 0.0 United-States <=50K

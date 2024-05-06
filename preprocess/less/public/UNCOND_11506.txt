@@ -1,0 +1,1 @@
+-0.4 Private -0.2348334395023794 Some-college 0.0 Never-married Other-service Not-in-family Other Male 0.0 1590.0 0.0 nan <=50K

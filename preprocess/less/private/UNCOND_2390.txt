@@ -1,0 +1,1 @@
+0.8 nan 0.3538593489131204 Bachelors 1.0 Divorced nan Other-relative Other Female 0.0 0.0 -4.0 United-States <=50K

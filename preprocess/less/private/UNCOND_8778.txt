@@ -1,0 +1,1 @@
+-0.35 Private -0.3175370446701057 Assoc-voc 0.3333333333333333 Married-civ-spouse Handlers-cleaners Husband White Male 0.0 0.0 2.6 United-States <=50K

@@ -1,0 +1,1 @@
+-0.1 Self-emp-not-inc -1.242032117177319 9th -1.6666666666666667 Married-civ-spouse Craft-repair Husband Amer-Indian-Eskimo Male 0.0 0.0 11.2 United-States <=50K

@@ -1,0 +1,1 @@
+1.5 Without-pay -0.3410108125887344 HS-grad -0.3333333333333333 Married-civ-spouse Adm-clerical Husband Asian-Pac-Islander Male 0.0 0.0 -5.6 Philippines <=50K

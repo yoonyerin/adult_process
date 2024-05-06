@@ -1,0 +1,1 @@
+1.6 Self-emp-not-inc -0.7133935374277114 10th -1.3333333333333333 Married-spouse-absent Farming-fishing Not-in-family White Male 3273.0 0.0 1.0 United-States <=50K

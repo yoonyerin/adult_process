@@ -1,0 +1,1 @@
+0.15 Local-gov -1.1538160485962787 Prof-school 1.6666666666666667 Separated Prof-specialty Own-child Black Female 0.0 0.0 0.0 United-States <=50K

@@ -1,0 +1,1 @@
+-0.3 Self-emp-inc -0.8776682779380722 HS-grad -0.3333333333333333 Divorced Other-service Unmarried White Male 0.0 0.0 -2.0 United-States <=50K

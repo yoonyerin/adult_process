@@ -1,0 +1,1 @@
+1.55 Self-emp-inc 0.0331955217480004 Some-college 0.0 Married-civ-spouse Exec-managerial Husband White Male 10605.0 0.0 -4.0 United-States >50K

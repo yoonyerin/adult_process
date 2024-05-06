@@ -1,0 +1,1 @@
+1.85 State-gov -0.5090077149506834 Some-college 0.0 Separated Sales Not-in-family White Male 0.0 0.0 -4.8 United-States <=50K

@@ -1,0 +1,1 @@
+0.5 State-gov -0.1809245450344112 Some-college 0.0 Divorced Prof-specialty Unmarried White Male 0.0 0.0 -4.0 United-States <=50K

@@ -1,0 +1,1 @@
+-0.7 Self-emp-not-inc -0.8826727953268966 Bachelors 1.0 Never-married Exec-managerial Not-in-family White Female 0.0 0.0 0.0 United-States <=50K

@@ -1,0 +1,1 @@
+1.45 nan 0.0659205688995474 Some-college 0.0 Widowed nan Unmarried Black Female 0.0 4356.0 0.0 United-States <=50K

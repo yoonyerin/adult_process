@@ -1,0 +1,1 @@
+-0.75 Private 0.6299738116352948 Bachelors 1.0 Married-civ-spouse Machine-op-inspct Husband White Male 0.0 0.0 1.0 nan <=50K

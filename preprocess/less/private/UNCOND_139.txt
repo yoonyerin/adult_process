@@ -1,0 +1,1 @@
+-0.05 Local-gov -0.1416628154365629 Some-college 0.0 Never-married Protective-serv Not-in-family White Male 0.0 0.0 3.2 United-States <=50K

@@ -1,0 +1,1 @@
+0.95 State-gov -0.7864711490821582 Bachelors 1.0 Separated Prof-specialty Not-in-family White Female 0.0 0.0 -0.4 nan <=50K

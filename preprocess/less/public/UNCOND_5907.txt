@@ -1,0 +1,1 @@
+0.05 nan 1.5598148078756615 Assoc-voc 0.3333333333333333 Never-married nan Own-child White Male 0.0 0.0 -5.0 United-States <=50K

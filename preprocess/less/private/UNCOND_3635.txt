@@ -1,0 +1,1 @@
+0.85 Self-emp-not-inc -0.0784526798316283 HS-grad -0.3333333333333333 Married-civ-spouse Sales Husband White Male 0.0 0.0 0.0 United-States <=50K

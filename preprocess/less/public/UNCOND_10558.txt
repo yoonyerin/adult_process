@@ -1,0 +1,1 @@
+1.65 Private 0.7011362169678953 Some-college 0.0 Never-married Adm-clerical Not-in-family White Female 0.0 0.0 -6.8 United-States <=50K

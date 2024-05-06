@@ -1,0 +1,1 @@
+1.5 nan -1.1501521756327466 Doctorate 2.0 Married-civ-spouse nan Husband White Male 0.0 0.0 0.0 United-States <=50K

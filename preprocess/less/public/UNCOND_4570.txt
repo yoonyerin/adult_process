@@ -1,0 +1,1 @@
+-0.5 Self-emp-not-inc -0.585374485288301 HS-grad -0.3333333333333333 Never-married Protective-serv Not-in-family White Male 0.0 0.0 -2.0 United-States <=50K

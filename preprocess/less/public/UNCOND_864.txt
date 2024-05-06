@@ -1,0 +1,1 @@
+1.0 nan 0.3669826757097713 Assoc-voc 0.3333333333333333 Widowed nan Unmarried White Female 0.0 0.0 -0.4 United-States <=50K

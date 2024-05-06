@@ -1,0 +1,1 @@
+0.55 Private 0.0212379727124734 Some-college 0.0 Divorced Exec-managerial Not-in-family White Female 0.0 0.0 -0.4 United-States <=50K

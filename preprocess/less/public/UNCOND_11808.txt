@@ -1,0 +1,1 @@
+-0.3 nan 0.0336951407884821 Bachelors 1.0 Married-civ-spouse nan Wife White Female 4064.0 0.0 -2.0 Canada <=50K

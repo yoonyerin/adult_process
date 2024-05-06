@@ -1,0 +1,1 @@
+-0.65 Federal-gov 0.9366233247149048 Some-college 0.0 Never-married Adm-clerical Not-in-family Black Female 0.0 0.0 0.2 United-States <=50K

@@ -1,0 +1,1 @@
+1.3 nan 2.2235004142674546 Bachelors 1.0 Widowed nan Not-in-family Amer-Indian-Eskimo Female 0.0 0.0 3.2 United-States <=50K

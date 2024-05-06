@@ -1,0 +1,1 @@
+0.65 Self-emp-not-inc -0.944925327770908 HS-grad -0.3333333333333333 Divorced Prof-specialty Not-in-family Asian-Pac-Islander Female 0.0 0.0 4.0 Vietnam <=50K

@@ -1,0 +1,1 @@
+0.85 Local-gov 1.5563507825283225 Some-college 0.0 Never-married Prof-specialty Not-in-family White Female 0.0 0.0 0.0 Mexico <=50K

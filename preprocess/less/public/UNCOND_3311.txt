@@ -1,0 +1,1 @@
+0.45 State-gov -0.2651270073235824 Some-college 0.0 Divorced Tech-support Not-in-family Other Female 0.0 0.0 1.6 United-States <=50K

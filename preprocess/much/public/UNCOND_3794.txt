@@ -1,0 +1,1 @@
+0.2 Self-emp-inc -0.7071066645016508 Bachelors 1.0 Married-civ-spouse Exec-managerial Husband Asian-Pac-Islander Male 0.0 1977.0 4.0 Taiwan >50K

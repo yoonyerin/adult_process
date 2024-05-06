@@ -1,0 +1,1 @@
+0.15 State-gov -1.371058734381701 HS-grad -0.3333333333333333 Married-civ-spouse Protective-serv Husband Amer-Indian-Eskimo Male 0.0 0.0 8.8 United-States <=50K

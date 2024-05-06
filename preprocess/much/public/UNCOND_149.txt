@@ -1,0 +1,1 @@
+-0.25 Self-emp-not-inc 1.847895146617371 Prof-school 1.6666666666666667 Married-civ-spouse Prof-specialty Husband Asian-Pac-Islander Male 15024.0 0.0 0.0 Philippines >50K

@@ -1,0 +1,1 @@
+1.5 nan 0.1230020442745739 HS-grad -0.3333333333333333 Married-civ-spouse nan Husband White Male 3818.0 0.0 -5.8 United-States <=50K

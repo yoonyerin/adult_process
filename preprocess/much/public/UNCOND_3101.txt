@@ -1,0 +1,1 @@
+0.85 Private -0.5580286698059397 Some-college 0.0 Married-civ-spouse Prof-specialty Husband Asian-Pac-Islander Male 0.0 0.0 2.0 United-States >50K

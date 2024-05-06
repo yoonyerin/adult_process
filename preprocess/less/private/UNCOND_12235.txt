@@ -1,0 +1,1 @@
+0.35 Private -0.0221456139693483 Bachelors 1.0 Married-civ-spouse Craft-repair Husband White Male 0.0 0.0 -5.6 United-States <=50K

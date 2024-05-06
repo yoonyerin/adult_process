@@ -1,0 +1,1 @@
+-0.75 Private 0.0568774642668298 HS-grad -0.3333333333333333 Married-spouse-absent Other-service Own-child White Female 0.0 0.0 -7.4 United-States <=50K

@@ -1,0 +1,1 @@
+0.7 nan -0.1733469895871065 5th-6th -2.333333333333333 Married-civ-spouse nan Husband Black Male 0.0 0.0 -6.4 United-States <=50K

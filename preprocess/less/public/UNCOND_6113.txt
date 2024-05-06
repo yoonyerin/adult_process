@@ -1,0 +1,1 @@
+-0.1 nan 0.7212292293792649 Some-college 0.0 Married-civ-spouse nan Husband Black Male 0.0 0.0 0.0 Haiti <=50K

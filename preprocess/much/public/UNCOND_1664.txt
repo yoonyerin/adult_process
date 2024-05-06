@@ -1,0 +1,1 @@
+0.75 State-gov -0.5707689553382213 Masters 1.3333333333333333 Married-spouse-absent Exec-managerial Unmarried White Female 4787.0 0.0 0.8 United-States >50K

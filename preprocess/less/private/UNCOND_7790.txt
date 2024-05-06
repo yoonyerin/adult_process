@@ -1,0 +1,1 @@
+-0.5 nan -1.2606262724672437 Bachelors 1.0 Married-civ-spouse nan Wife Asian-Pac-Islander Female 0.0 0.0 -6.0 China <=50K

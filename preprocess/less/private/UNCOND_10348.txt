@@ -1,0 +1,1 @@
+0.9 Private -0.534863000295608 Assoc-voc 0.3333333333333333 Married-civ-spouse Prof-specialty Wife White Female 0.0 0.0 -4.0 United-States <=50K

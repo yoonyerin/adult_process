@@ -1,0 +1,1 @@
+0.45 Self-emp-not-inc -0.6902112139493636 HS-grad -0.3333333333333333 Divorced Transport-moving Not-in-family White Male 0.0 0.0 2.0 United-States <=50K

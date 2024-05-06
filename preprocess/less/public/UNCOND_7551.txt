@@ -1,0 +1,1 @@
+0.5 nan 1.0854598368743833 HS-grad -0.3333333333333333 Divorced nan Unmarried White Female 0.0 0.0 0.0 United-States <=50K

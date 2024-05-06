@@ -1,0 +1,1 @@
+-0.8 State-gov -0.0383915597690094 Some-college 0.0 Never-married Prof-specialty Own-child White Female 0.0 0.0 0.0 Ecuador <=50K

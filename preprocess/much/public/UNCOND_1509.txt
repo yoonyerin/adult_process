@@ -1,0 +1,1 @@
+-0.05 Self-emp-inc -0.3769250946153558 Masters 1.3333333333333333 Married-civ-spouse Tech-support Husband White Male 0.0 1887.0 0.0 United-States >50K

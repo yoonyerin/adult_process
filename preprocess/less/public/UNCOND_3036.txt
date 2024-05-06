@@ -1,0 +1,1 @@
+0.05 Federal-gov -0.9362735913865676 Some-college 0.0 Divorced Exec-managerial Unmarried White Female 0.0 0.0 -0.4 United-States <=50K

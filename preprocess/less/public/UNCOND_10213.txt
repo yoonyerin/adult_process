@@ -1,0 +1,1 @@
+0.6 Private -0.3682816852150235 Assoc-voc 0.3333333333333333 Never-married Sales Other-relative Black Male 0.0 0.0 0.0 nan <=50K

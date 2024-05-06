@@ -1,0 +1,1 @@
+-0.25 Self-emp-not-inc 0.6904027345815482 Bachelors 1.0 Never-married Prof-specialty Own-child Black Female 2174.0 0.0 4.0 nan <=50K

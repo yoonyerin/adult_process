@@ -1,0 +1,1 @@
+0.4 State-gov -0.1838556434052368 Bachelors 1.0 Divorced Adm-clerical Not-in-family White Female 0.0 0.0 0.0 United-States <=50K

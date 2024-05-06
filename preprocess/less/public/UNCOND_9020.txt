@@ -1,0 +1,1 @@
+0.6 nan 0.9888085334932114 HS-grad -0.3333333333333333 Married-civ-spouse nan Husband White Male 0.0 0.0 0.0 Puerto-Rico <=50K

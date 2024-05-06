@@ -1,0 +1,1 @@
+-0.4 Local-gov 0.7962803362436143 Masters 1.3333333333333333 Never-married Prof-specialty Not-in-family White Male 0.0 0.0 1.0 United-States <=50K

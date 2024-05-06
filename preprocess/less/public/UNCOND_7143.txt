@@ -1,0 +1,1 @@
+-0.75 Local-gov -0.3294945937056328 HS-grad -0.3333333333333333 Never-married Protective-serv Unmarried White Male 0.0 0.0 3.2 United-States <=50K

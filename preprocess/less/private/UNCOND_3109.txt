@@ -1,0 +1,1 @@
+1.15 Federal-gov -1.3012453004584004 Some-college 0.0 Divorced Prof-specialty Not-in-family Amer-Indian-Eskimo Female 0.0 0.0 0.0 United-States <=50K

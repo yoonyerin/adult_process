@@ -1,0 +1,1 @@
+1.65 nan 0.2712723215215065 Prof-school 1.6666666666666667 Divorced nan Not-in-family White Male 2538.0 0.0 1.0 United-States <=50K

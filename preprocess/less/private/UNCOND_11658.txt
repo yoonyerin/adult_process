@@ -1,0 +1,1 @@
+0.1 State-gov -1.132124255255368 HS-grad -0.3333333333333333 Married-civ-spouse Adm-clerical Wife Asian-Pac-Islander Female 3464.0 0.0 -4.0 United-States <=50K

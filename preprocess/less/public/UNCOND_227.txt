@@ -1,0 +1,1 @@
+0.4 State-gov 0.0637222451214282 Some-college 0.0 Never-married Tech-support Not-in-family White Female 3325.0 0.0 4.0 United-States <=50K

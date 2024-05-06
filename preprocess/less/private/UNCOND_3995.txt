@@ -1,0 +1,1 @@
+-0.25 State-gov 0.1858957544872035 Some-college 0.0 Never-married Protective-serv Unmarried Black Female 3887.0 0.0 0.0 United-States <=50K

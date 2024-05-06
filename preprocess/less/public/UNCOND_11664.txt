@@ -1,0 +1,1 @@
+-0.9 State-gov 0.8708068431154578 Some-college 0.0 Never-married Other-service Not-in-family Black Male 0.0 0.0 -5.6 United-States <=50K

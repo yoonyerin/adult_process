@@ -1,0 +1,1 @@
+-0.1 Private -0.8967953602045107 Some-college 0.0 Never-married Prof-specialty Unmarried Asian-Pac-Islander Male 4650.0 0.0 -4.0 United-States <=50K

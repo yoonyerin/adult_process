@@ -1,0 +1,1 @@
+0.7 nan -0.2592148486778831 Some-college 0.0 Divorced nan Not-in-family Black Male 0.0 0.0 2.0 United-States

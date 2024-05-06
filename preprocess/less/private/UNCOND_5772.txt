@@ -1,0 +1,1 @@
+0.45 Self-emp-inc -0.139547761498524 9th -1.6666666666666667 Married-civ-spouse Adm-clerical Wife White Female 0.0 0.0 2.0 United-States <=50K

@@ -1,0 +1,1 @@
+-0.05 Local-gov 0.9593809720088432 Some-college 0.0 Never-married Exec-managerial Unmarried Black Female 0.0 0.0 1.6 United-States <=50K

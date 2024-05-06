@@ -1,0 +1,1 @@
+0.95 Self-emp-inc 0.0766956862059346 Some-college 0.0 Married-civ-spouse Sales Wife White Female 0.0 0.0 4.0 Canada >50K

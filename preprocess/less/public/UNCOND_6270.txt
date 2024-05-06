@@ -1,0 +1,1 @@
+-0.7 Local-gov 0.5845501138715063 Some-college 0.0 Never-married Other-service Not-in-family Black Male 0.0 0.0 -2.0 United-States <=50K

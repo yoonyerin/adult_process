@@ -1,0 +1,1 @@
+-0.05 Self-emp-inc 0.1174645999092358 Some-college 0.0 Married-civ-spouse Sales Wife White Female 0.0 1902.0 -5.0 United-States >50K

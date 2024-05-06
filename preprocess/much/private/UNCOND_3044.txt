@@ -1,0 +1,1 @@
+1.5 Self-emp-inc -0.4208416082736913 Masters 1.3333333333333333 Married-civ-spouse Prof-specialty Husband White Male 20051.0 0.0 4.0 Italy >50K

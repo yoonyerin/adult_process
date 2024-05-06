@@ -1,0 +1,1 @@
+1.25 nan -0.4384281984986448 HS-grad -0.3333333333333333 Married-civ-spouse nan Wife White Female 5178.0 0.0 0.0 Scotland >50K

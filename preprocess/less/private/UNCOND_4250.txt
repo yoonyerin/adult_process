@@ -1,0 +1,1 @@
+1.8 Self-emp-not-inc 0.4641252711474167 HS-grad -0.3333333333333333 Married-civ-spouse Farming-fishing Husband Asian-Pac-Islander Male 0.0 2457.0 0.0 Vietnam <=50K

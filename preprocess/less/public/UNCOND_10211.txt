@@ -1,0 +1,1 @@
+0.5 Private -0.5524745714725855 Some-college 0.0 Never-married Other-service Not-in-family Black Female 0.0 0.0 -1.0 Outlying-US(Guam-USVI-etc) <=50K

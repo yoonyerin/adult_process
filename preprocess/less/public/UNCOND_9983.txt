@@ -1,0 +1,1 @@
+-0.3 Federal-gov -1.2259610380418264 Some-college 0.0 Married-civ-spouse Protective-serv Husband White Male 0.0 0.0 6.4 United-States <=50K

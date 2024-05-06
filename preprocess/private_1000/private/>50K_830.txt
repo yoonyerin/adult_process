@@ -1,0 +1,1 @@
+0.85 Self-emp-inc -0.0497079310359184 Some-college 0.0 Married-civ-spouse Transport-moving Husband White Male 0.0 0.0 0.0 United-States

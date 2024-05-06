@@ -1,0 +1,1 @@
+0.9 Self-emp-inc 0.0476678199539517 Prof-school 1.6666666666666667 Married-civ-spouse Exec-managerial Husband White Male 0.0 0.0 2.0 nan >50K

@@ -1,0 +1,1 @@
+0.1 Self-emp-inc -0.1957132686326675 HS-grad -0.3333333333333333 Divorced Craft-repair Unmarried White Male 0.0 0.0 4.0 United-States <=50K

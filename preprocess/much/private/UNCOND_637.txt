@@ -1,0 +1,1 @@
+-0.1 Self-emp-inc 0.9266725788253124 Masters 1.3333333333333333 Married-civ-spouse Sales Husband White Male 0.0 0.0 1.0 Mexico >50K

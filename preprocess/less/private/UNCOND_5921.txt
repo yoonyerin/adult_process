@@ -1,0 +1,1 @@
+-0.5 State-gov 1.0255305329686115 Doctorate 2.0 Married-spouse-absent Tech-support Not-in-family White Male 0.0 0.0 -4.0 nan <=50K

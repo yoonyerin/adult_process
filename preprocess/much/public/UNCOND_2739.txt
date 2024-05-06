@@ -1,0 +1,1 @@
+0.25 Self-emp-not-inc 1.0400361391105948 HS-grad -0.3333333333333333 Married-civ-spouse Farming-fishing Husband Asian-Pac-Islander Male 0.0 0.0 0.0 Cambodia >50K

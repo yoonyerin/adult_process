@@ -1,0 +1,1 @@
+0.35 Self-emp-inc 2.3156634732682995 Some-college 0.0 Divorced Sales Own-child White Male 0.0 0.0 1.0 United-States >50K

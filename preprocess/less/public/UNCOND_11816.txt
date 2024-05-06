@@ -1,0 +1,1 @@
+0.6 Private -0.0569857150589342 HS-grad -0.3333333333333333 Married-civ-spouse Machine-op-inspct Wife Black Female 0.0 0.0 0.0 United-States <=50K

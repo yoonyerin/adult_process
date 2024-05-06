@@ -1,0 +1,1 @@
+-0.2 Self-emp-not-inc 2.038574753417186 Some-college 0.0 Married-civ-spouse Prof-specialty Wife White Female 0.0 0.0 4.0 United-States >50K

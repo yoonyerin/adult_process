@@ -1,0 +1,1 @@
+-0.7 Private 0.1143586348742417 Some-college 0.0 Never-married Sales Own-child Black Female 0.0 0.0 -0.4 nan <=50K

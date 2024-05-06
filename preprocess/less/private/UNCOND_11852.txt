@@ -1,0 +1,1 @@
+-0.8 nan 0.5739831711653198 HS-grad -0.3333333333333333 Never-married nan Unmarried Black Female 0.0 0.0 -3.0 United-States <=50K

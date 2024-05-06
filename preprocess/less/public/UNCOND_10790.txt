@@ -1,0 +1,1 @@
+-0.75 Self-emp-not-inc -0.2921314164616146 HS-grad -0.3333333333333333 Never-married Other-service Own-child White Male 0.0 0.0 0.0 Greece <=50K

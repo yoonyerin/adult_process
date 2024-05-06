@@ -1,0 +1,1 @@
+0.25 nan -0.1911417544122606 Bachelors 1.0 Married-civ-spouse nan Husband Black Male 2580.0 0.0 -6.4 United-States <=50K

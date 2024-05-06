@@ -1,0 +1,1 @@
+-0.85 Self-emp-not-inc 0.3269132286631444 10th -1.3333333333333333 Never-married Machine-op-inspct Own-child White Male 0.0 0.0 0.0 United-States <=50K

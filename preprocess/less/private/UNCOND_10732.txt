@@ -1,0 +1,1 @@
+-0.6 State-gov -0.4075600687808879 Some-college 0.0 Never-married Transport-moving Not-in-family Black Male 0.0 0.0 0.0 United-States <=50K

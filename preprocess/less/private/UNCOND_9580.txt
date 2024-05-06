@@ -1,0 +1,1 @@
+-0.6 Self-emp-inc -0.6610667699212683 Some-college 0.0 Divorced Adm-clerical Own-child White Female 0.0 0.0 2.0 United-States <=50K

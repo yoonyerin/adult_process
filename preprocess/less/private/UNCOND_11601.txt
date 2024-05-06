@@ -1,0 +1,1 @@
+0.0 Local-gov -0.0268170519978516 Some-college 0.0 Divorced Protective-serv Unmarried White Male 0.0 0.0 1.6 Germany <=50K

@@ -1,0 +1,1 @@
+0.6 Self-emp-not-inc 0.0297481503686772 Bachelors 1.0 Married-civ-spouse Exec-managerial Wife White Female 0.0 0.0 -6.6 United-States >50K

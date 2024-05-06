@@ -1,0 +1,1 @@
+-0.65 State-gov 2.732787083182407 Some-college 0.0 Never-married Adm-clerical Own-child Asian-Pac-Islander Male 0.0 0.0 0.0 nan <=50K

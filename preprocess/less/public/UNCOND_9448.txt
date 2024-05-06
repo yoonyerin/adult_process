@@ -1,0 +1,1 @@
+0.7 Self-emp-not-inc -0.2362740077357681 HS-grad -0.3333333333333333 Divorced Sales Not-in-family White Female 0.0 0.0 0.8 United-States <=50K

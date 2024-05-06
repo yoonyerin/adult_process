@@ -1,0 +1,1 @@
+-0.8 State-gov -0.7935407585049733 Some-college 0.0 Never-married Exec-managerial Not-in-family White Female 0.0 0.0 -0.4 United-States <=50K

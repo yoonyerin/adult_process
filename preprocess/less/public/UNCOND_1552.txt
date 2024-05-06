@@ -1,0 +1,1 @@
+-0.05 Self-emp-inc 2.572542602931931 7th-8th -2.0 Never-married Craft-repair Unmarried Black Male 0.0 0.0 0.0 United-States <=50K

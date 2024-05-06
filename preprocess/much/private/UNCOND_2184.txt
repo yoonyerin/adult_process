@@ -1,0 +1,1 @@
+0.55 Self-emp-not-inc -0.3701386026488136 Bachelors 1.0 Married-spouse-absent Exec-managerial Not-in-family Black Male 0.0 0.0 0.0 Jamaica >50K

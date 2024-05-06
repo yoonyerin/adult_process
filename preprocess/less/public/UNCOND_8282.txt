@@ -1,0 +1,1 @@
+-0.4 Private -0.3315180508195834 Some-college 0.0 Married-civ-spouse Adm-clerical Own-child White Female 0.0 0.0 -6.8 United-States <=50K

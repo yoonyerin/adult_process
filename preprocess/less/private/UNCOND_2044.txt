@@ -1,0 +1,1 @@
+1.1 Private -0.1735468372032991 Some-college 0.0 Divorced Prof-specialty Not-in-family White Female 0.0 0.0 1.6 United-States <=50K

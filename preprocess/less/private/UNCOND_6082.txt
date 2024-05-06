@@ -1,0 +1,1 @@
+0.25 Local-gov -0.6146188531244926 HS-grad -0.3333333333333333 Married-civ-spouse Farming-fishing Husband White Male 0.0 0.0 0.0 El-Salvador <=50K

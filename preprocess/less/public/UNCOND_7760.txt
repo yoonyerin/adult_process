@@ -1,0 +1,1 @@
+-0.3 Local-gov -0.0163167251637293 Bachelors 1.0 Married-civ-spouse Machine-op-inspct Husband White Male 4064.0 0.0 0.0 nan <=50K

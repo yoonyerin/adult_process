@@ -1,0 +1,1 @@
+0.4 Local-gov 1.2317233109753811 Some-college 0.0 Divorced Adm-clerical Unmarried Black Female 6497.0 0.0 -1.0 United-States <=50K

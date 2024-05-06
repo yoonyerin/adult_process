@@ -1,0 +1,1 @@
+0.45 Local-gov 0.7478256163009039 Assoc-voc 0.3333333333333333 Divorced Exec-managerial Not-in-family White Female 0.0 0.0 -0.8 United-States <=50K

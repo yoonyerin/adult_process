@@ -1,0 +1,1 @@
+0.5 Self-emp-not-inc 0.0544376579524779 HS-grad -0.3333333333333333 Separated Sales Unmarried White Female 0.0 0.0 -1.0 United-States <=50K

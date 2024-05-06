@@ -1,0 +1,1 @@
+-0.75 Private -0.7502154607112077 Assoc-acdm 0.6666666666666666 Married-civ-spouse Exec-managerial Husband Asian-Pac-Islander Male 0.0 0.0 -6.8 United-States <=50K

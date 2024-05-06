@@ -1,0 +1,1 @@
+-0.85 Self-emp-not-inc -0.5496433969098562 Some-college 0.0 Never-married Prof-specialty Other-relative Asian-Pac-Islander Female 0.0 0.0 -4.0 South <=50K

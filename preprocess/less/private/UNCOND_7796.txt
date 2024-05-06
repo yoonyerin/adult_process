@@ -1,0 +1,1 @@
+1.75 Local-gov 0.6796276172751611 HS-grad -0.3333333333333333 Married-civ-spouse Exec-managerial Husband White Male 2290.0 0.0 -6.0 United-States <=50K

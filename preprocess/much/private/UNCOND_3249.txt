@@ -1,0 +1,1 @@
+-0.15 Private -1.2538730884367335 Assoc-voc 0.3333333333333333 Married-civ-spouse Craft-repair Wife Amer-Indian-Eskimo Female 0.0 0.0 -2.6 United-States >50K

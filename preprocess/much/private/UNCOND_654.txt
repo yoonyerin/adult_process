@@ -1,0 +1,1 @@
+-0.4 Private 0.3853436754474713 Assoc-voc 0.3333333333333333 Married-AF-spouse Farming-fishing Husband White Male 0.0 0.0 0.8 United-States >50K

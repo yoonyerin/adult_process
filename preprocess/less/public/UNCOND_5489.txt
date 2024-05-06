@@ -1,0 +1,1 @@
+0.2 State-gov -0.6440464146088607 Masters 1.3333333333333333 Divorced Prof-specialty Not-in-family White Male 0.0 0.0 -1.0 United-States <=50K

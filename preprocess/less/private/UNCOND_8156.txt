@@ -1,0 +1,1 @@
+1.3 Local-gov 0.5267608448557974 Some-college 0.0 Divorced Protective-serv Not-in-family White Female 0.0 0.0 -1.0 United-States <=50K

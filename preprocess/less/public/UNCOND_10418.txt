@@ -1,0 +1,1 @@
+-0.1 Self-emp-not-inc 0.9741114067190434 Some-college 0.0 Divorced Farming-fishing Unmarried White Male 0.0 0.0 2.0 United-States <=50K

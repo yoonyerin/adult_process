@@ -1,0 +1,1 @@
+1.35 nan -0.3156551462842916 Preschool -3.0 Married-civ-spouse nan Husband White Male 0.0 0.0 0.0 United-States <=50K

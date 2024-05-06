@@ -1,0 +1,1 @@
+0.1 State-gov 0.7447363052339258 HS-grad -0.3333333333333333 Never-married Other-service Not-in-family Black Male 0.0 0.0 0.0 United-States <=50K

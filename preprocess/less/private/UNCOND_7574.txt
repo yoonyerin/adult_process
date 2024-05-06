@@ -1,0 +1,1 @@
+-0.55 Self-emp-not-inc -0.5081084006778165 9th -1.6666666666666667 Married-civ-spouse Craft-repair Husband White Male 0.0 0.0 0.0 Portugal <=50K

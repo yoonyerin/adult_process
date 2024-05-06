@@ -1,0 +1,1 @@
+1.0 Private 0.837848640411686 Assoc-voc 0.3333333333333333 Married-spouse-absent Exec-managerial Not-in-family White Female 0.0 0.0 1.4 United-States <=50K

@@ -1,0 +1,1 @@
+0.25 Private 1.201088336809849 Assoc-voc 0.3333333333333333 Married-civ-spouse Machine-op-inspct Husband White Male 2407.0 0.0 0.0 United-States <=50K

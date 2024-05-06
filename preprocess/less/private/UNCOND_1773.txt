@@ -1,0 +1,1 @@
+0.1 State-gov 0.8090122947918879 HS-grad -0.3333333333333333 Married-civ-spouse Craft-repair Husband White Male 0.0 0.0 0.0 Mexico <=50K

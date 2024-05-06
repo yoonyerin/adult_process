@@ -1,0 +1,1 @@
+-0.15 Private -0.3567321583958898 Some-college 0.0 Married-civ-spouse Craft-repair Husband White Male 0.0 0.0 1.0 United-States <=50K

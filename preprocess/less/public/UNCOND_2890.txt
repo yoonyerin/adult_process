@@ -1,0 +1,1 @@
+-0.45 Self-emp-not-inc 0.2234920872834463 Bachelors 1.0 Never-married Tech-support Not-in-family White Male 0.0 0.0 1.0 United-States <=50K

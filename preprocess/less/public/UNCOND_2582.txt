@@ -1,0 +1,1 @@
+0.35 Self-emp-not-inc 0.1011353842694945 Some-college 0.0 Married-spouse-absent Exec-managerial Not-in-family White Male 0.0 0.0 8.0 France <=50K

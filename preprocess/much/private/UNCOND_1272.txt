@@ -1,0 +1,1 @@
+-0.5 Federal-gov 0.1041580794644083 Assoc-voc 0.3333333333333333 Married-civ-spouse Armed-Forces Husband White Male 0.0 0.0 0.0 nan >50K

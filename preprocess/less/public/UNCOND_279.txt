@@ -1,0 +1,1 @@
+0.1 Self-emp-not-inc -0.7063405819729123 HS-grad -0.3333333333333333 Never-married Sales Other-relative White Female 0.0 0.0 -7.2 United-States <=50K

@@ -1,0 +1,1 @@
+-0.35 Private -0.9512288546649846 HS-grad -0.3333333333333333 Married-civ-spouse Sales Own-child Asian-Pac-Islander Female 0.0 0.0 0.0 United-States

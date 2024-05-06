@@ -1,0 +1,1 @@
+-0.15 Private 0.0178155822851742 Some-college 0.0 Married-civ-spouse Handlers-cleaners Husband White Male 0.0 0.0 2.0 United-States <=50K

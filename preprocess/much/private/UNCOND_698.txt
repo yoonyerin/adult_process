@@ -1,0 +1,1 @@
+-0.25 Self-emp-inc -0.0748804036921847 Assoc-voc 0.3333333333333333 Divorced Exec-managerial Not-in-family White Female 10520.0 0.0 8.0 Greece >50K

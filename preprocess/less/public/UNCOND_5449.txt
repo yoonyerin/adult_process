@@ -1,0 +1,1 @@
+1.6 Local-gov -0.4604364172318607 10th -1.3333333333333333 Married-civ-spouse Exec-managerial Husband White Male 0.0 0.0 -4.0 United-States <=50K

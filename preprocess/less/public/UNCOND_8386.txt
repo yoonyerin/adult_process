@@ -1,0 +1,1 @@
+0.7 Federal-gov 0.3289366857770949 Some-college 0.0 Divorced Prof-specialty Not-in-family Black Female 0.0 0.0 0.0 United-States <=50K

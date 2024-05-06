@@ -1,0 +1,1 @@
+-0.15 Self-emp-not-inc -0.6500501700786484 Bachelors 1.0 Married-civ-spouse Sales Husband Asian-Pac-Islander Male 0.0 0.0 3.0 India <=50K

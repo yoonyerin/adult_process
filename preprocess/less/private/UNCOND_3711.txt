@@ -1,0 +1,1 @@
+0.05 Private 0.0126861601362294 HS-grad -0.3333333333333333 Married-civ-spouse Protective-serv Husband White Male 0.0 0.0 0.0 Scotland <=50K

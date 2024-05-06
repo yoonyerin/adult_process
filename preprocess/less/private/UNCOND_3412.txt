@@ -1,0 +1,1 @@
+0.6 Private -0.9775337971463426 HS-grad -0.3333333333333333 Married-civ-spouse Protective-serv Husband White Male 0.0 0.0 0.0 United-States <=50K

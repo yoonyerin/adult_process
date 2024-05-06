@@ -1,0 +1,1 @@
+0.6 Private 0.0297481503686772 Assoc-voc 0.3333333333333333 Separated Prof-specialty Own-child White Female 0.0 0.0 -0.8 United-States <=50K

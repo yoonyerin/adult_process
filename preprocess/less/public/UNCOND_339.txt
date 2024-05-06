@@ -1,0 +1,1 @@
+-0.75 State-gov 1.4127436163258849 Some-college 0.0 Never-married Adm-clerical Not-in-family Other Male 0.0 0.0 -4.0 United-States <=50K

@@ -1,0 +1,1 @@
+-0.8 Local-gov -0.216039436596262 Some-college 0.0 Married-civ-spouse Protective-serv Own-child Black Male 0.0 0.0 0.0 United-States <=50K

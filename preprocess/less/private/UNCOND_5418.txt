@@ -1,0 +1,1 @@
+0.1 Self-emp-not-inc 0.6125787420425259 10th -1.3333333333333333 Married-spouse-absent Other-service Not-in-family White Female 0.0 1721.0 -5.0 United-States <=50K

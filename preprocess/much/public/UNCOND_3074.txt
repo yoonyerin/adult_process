@@ -1,0 +1,1 @@
+0.35 State-gov -0.659126582647398 Bachelors 1.0 Married-civ-spouse Prof-specialty Husband Amer-Indian-Eskimo Male 0.0 0.0 -0.4 United-States >50K

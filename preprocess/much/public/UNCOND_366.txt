@@ -1,0 +1,1 @@
+0.8 Self-emp-inc 0.612287297602245 Some-college 0.0 Divorced Sales Not-in-family White Male 8614.0 0.0 2.0 Cuba >50K

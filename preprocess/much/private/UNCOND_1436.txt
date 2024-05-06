@@ -1,0 +1,1 @@
+1.55 Self-emp-not-inc -0.4920289945583159 HS-grad -0.3333333333333333 Never-married Sales Not-in-family White Male 0.0 0.0 -3.2 United-States >50K

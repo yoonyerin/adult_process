@@ -1,0 +1,1 @@
+1.2 Self-emp-not-inc 1.7865502554302344 Some-college 0.0 Divorced Exec-managerial Not-in-family White Male 0.0 0.0 2.0 United-States >50K

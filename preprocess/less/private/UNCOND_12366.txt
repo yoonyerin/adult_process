@@ -1,0 +1,1 @@
+-0.5 Private 0.1460261550567692 Some-college 0.0 Never-married Prof-specialty Not-in-family White Female 0.0 0.0 1.6 nan <=50K

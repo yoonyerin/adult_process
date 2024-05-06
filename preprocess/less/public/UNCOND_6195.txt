@@ -1,0 +1,1 @@
+0.6 Private -1.0647089927263795 Some-college 0.0 Divorced Machine-op-inspct Not-in-family White Male 3325.0 0.0 1.0 United-States <=50K

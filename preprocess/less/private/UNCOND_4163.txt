@@ -1,0 +1,1 @@
+-0.1 Self-emp-not-inc -0.5824433869174754 HS-grad -0.3333333333333333 Divorced Craft-repair Own-child Amer-Indian-Eskimo Male 0.0 0.0 -5.0 United-States <=50K

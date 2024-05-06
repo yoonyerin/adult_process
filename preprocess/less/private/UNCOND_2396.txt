@@ -1,0 +1,1 @@
+-0.6 State-gov 1.253648259868517 Some-college 0.0 Divorced Protective-serv Other-relative White Male 0.0 0.0 1.0 United-States <=50K

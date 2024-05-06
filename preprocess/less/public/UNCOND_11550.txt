@@ -1,0 +1,1 @@
+0.3 State-gov 0.0804178480575228 Some-college 0.0 Separated Craft-repair Not-in-family White Male 0.0 0.0 -0.6 United-States <=50K

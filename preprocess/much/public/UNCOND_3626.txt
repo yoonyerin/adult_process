@@ -1,0 +1,1 @@
+1.45 State-gov -0.1265659934300096 Prof-school 1.6666666666666667 Married-civ-spouse Exec-managerial Husband Black Male 20051.0 0.0 3.0 United-States >50K

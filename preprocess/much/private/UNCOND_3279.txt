@@ -1,0 +1,1 @@
+0.15 Self-emp-inc -0.1740714371958048 Masters 1.3333333333333333 Married-civ-spouse Exec-managerial Wife White Female 15024.0 0.0 -2.0 Iran >50K

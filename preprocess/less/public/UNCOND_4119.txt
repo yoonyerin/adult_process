@@ -1,0 +1,1 @@
+0.25 Private -1.0941781891307878 Some-college 0.0 Married-civ-spouse Prof-specialty Wife White Female 0.0 0.0 -3.0 nan <=50K

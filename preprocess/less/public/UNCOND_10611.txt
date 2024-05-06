@@ -1,0 +1,1 @@
+0.65 Self-emp-not-inc 0.3596549297827073 Some-college 0.0 Divorced Exec-managerial Unmarried Asian-Pac-Islander Female 0.0 0.0 0.0 nan <=50K

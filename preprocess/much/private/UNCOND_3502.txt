@@ -1,0 +1,1 @@
+1.4 nan -0.5215314988987564 Bachelors 1.0 Married-civ-spouse nan Husband White Male 5556.0 0.0 1.6 United-States >50K

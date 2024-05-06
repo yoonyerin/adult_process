@@ -1,0 +1,1 @@
+0.8 Private -0.8383815673881998 Some-college 0.0 Separated Prof-specialty Not-in-family White Male 0.0 0.0 4.0 United-States <=50K

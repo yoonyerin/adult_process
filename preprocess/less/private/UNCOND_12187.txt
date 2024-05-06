@@ -1,0 +1,1 @@
+-0.8 Private -0.8525291132178381 Some-college 0.0 Married-civ-spouse Sales Wife Amer-Indian-Eskimo Female 0.0 0.0 0.0 United-States <=50K

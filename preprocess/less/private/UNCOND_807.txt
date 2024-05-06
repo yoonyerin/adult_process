@@ -1,0 +1,1 @@
+1.8 nan 1.6718710316716836 HS-grad -0.3333333333333333 Married-spouse-absent nan Not-in-family White Female 0.0 0.0 -4.0 Canada <=50K

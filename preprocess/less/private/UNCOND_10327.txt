@@ -1,0 +1,1 @@
+0.55 Self-emp-inc -0.8465420117160665 Some-college 0.0 Married-civ-spouse Farming-fishing Husband White Male 0.0 0.0 2.0 United-States <=50K

@@ -1,0 +1,1 @@
+0.0 Self-emp-not-inc 0.9266725788253124 10th -1.3333333333333333 Married-civ-spouse Craft-repair Husband White Male 0.0 0.0 0.0 Mexico <=50K

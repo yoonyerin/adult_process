@@ -1,0 +1,1 @@
+-0.45 Self-emp-not-inc -0.1875528243048009 Some-college 0.0 Never-married Craft-repair Own-child White Male 0.0 0.0 2.0 Columbia <=50K

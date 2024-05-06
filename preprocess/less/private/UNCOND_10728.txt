@@ -1,0 +1,1 @@
+-0.75 Federal-gov 0.3355816190155006 Some-college 0.0 Never-married Exec-managerial Not-in-family White Female 0.0 0.0 0.0 United-States <=50K

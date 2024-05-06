@@ -1,0 +1,1 @@
+-0.05 Local-gov 0.6333295861905297 Prof-school 1.6666666666666667 Divorced Prof-specialty Unmarried White Female 0.0 0.0 -3.2 Germany <=50K

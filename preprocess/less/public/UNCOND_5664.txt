@@ -1,0 +1,1 @@
+2.0 nan 1.280011491237931 Some-college 0.0 Separated nan Not-in-family White Male 0.0 0.0 -7.6 United-States <=50K

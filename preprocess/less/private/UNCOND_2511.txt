@@ -1,0 +1,1 @@
+-0.1 nan -0.4233313764920914 Some-college 0.0 Divorced nan Unmarried White Female 0.0 0.0 0.0 United-States <=50K

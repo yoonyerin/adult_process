@@ -1,0 +1,1 @@
+0.15 Private -0.2955038449848657 Assoc-voc 0.3333333333333333 Married-civ-spouse Craft-repair Husband Black Male 0.0 0.0 1.0 United-States <=50K

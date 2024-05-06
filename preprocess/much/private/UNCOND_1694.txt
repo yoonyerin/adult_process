@@ -1,0 +1,1 @@
+0.3 Local-gov -0.6831665854785726 Some-college 0.0 Married-civ-spouse Protective-serv Husband White Male 0.0 1887.0 0.0 United-States >50K

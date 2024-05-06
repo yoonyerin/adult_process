@@ -1,0 +1,1 @@
+-0.15 State-gov -1.316392084369002 Some-college 0.0 Married-spouse-absent Adm-clerical Unmarried Asian-Pac-Islander Female 0.0 0.0 -0.4 Philippines <=50K

@@ -1,0 +1,1 @@
+0.15 State-gov -0.0634474546491633 Some-college 0.0 Never-married Adm-clerical Not-in-family White Female 0.0 0.0 -0.4 United-States <=50K

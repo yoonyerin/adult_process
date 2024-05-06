@@ -1,0 +1,1 @@
+-0.1 Self-emp-not-inc -0.5466456826669664 HS-grad -0.3333333333333333 Married-civ-spouse Craft-repair Other-relative White Male 0.0 0.0 -1.0 Ireland <=50K

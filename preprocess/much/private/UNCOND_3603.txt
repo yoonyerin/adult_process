@@ -1,0 +1,1 @@
+0.8 Self-emp-not-inc -0.2725047151546945 1st-4th -2.6666666666666665 Married-civ-spouse Exec-managerial Husband White Male 7688.0 0.0 5.4 Italy >50K

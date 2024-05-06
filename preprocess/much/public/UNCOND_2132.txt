@@ -1,0 +1,1 @@
+0.5 Local-gov -0.0350274582297664 Bachelors 1.0 Married-civ-spouse Craft-repair Husband White Male 0.0 0.0 2.0 United-States >50K

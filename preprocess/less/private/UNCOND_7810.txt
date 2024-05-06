@@ -1,0 +1,1 @@
+0.8 Private -1.0990744557275078 HS-grad -0.3333333333333333 Married-civ-spouse Priv-house-serv Other-relative White Female 0.0 0.0 0.0 United-States <=50K

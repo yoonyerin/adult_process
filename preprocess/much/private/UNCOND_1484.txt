@@ -1,0 +1,1 @@
+0.0 Self-emp-not-inc 0.7254593372553428 Prof-school 1.6666666666666667 Married-civ-spouse Prof-specialty Husband White Male 0.0 0.0 0.0 Cuba >50K

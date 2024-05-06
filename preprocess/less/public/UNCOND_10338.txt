@@ -1,0 +1,1 @@
+-0.75 State-gov 0.7157667278699992 Some-college 0.0 Never-married Other-service Other-relative Black Male 0.0 0.0 -0.2 Haiti <=50K

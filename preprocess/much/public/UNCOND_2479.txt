@@ -1,0 +1,1 @@
+0.3 Self-emp-inc 0.6300737354433911 Prof-school 1.6666666666666667 Married-civ-spouse Prof-specialty Husband White Male 0.0 2415.0 3.0 United-States >50K

@@ -1,0 +1,1 @@
+1.1 Self-emp-not-inc 0.175661891141338 HS-grad -0.3333333333333333 Divorced Prof-specialty Not-in-family White Male 0.0 0.0 -4.0 England <=50K

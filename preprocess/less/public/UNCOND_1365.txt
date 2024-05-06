@@ -1,0 +1,1 @@
+-0.9 Self-emp-inc -0.2430604997023103 Some-college 0.0 Never-married Other-service Own-child Asian-Pac-Islander Female 0.0 0.0 -1.0 South <=50K

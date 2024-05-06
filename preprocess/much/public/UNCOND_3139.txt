@@ -1,0 +1,1 @@
+0.05 Self-emp-not-inc -0.1134010317133186 Prof-school 1.6666666666666667 Never-married Prof-specialty Not-in-family White Male 0.0 2824.0 1.0 United-States >50K

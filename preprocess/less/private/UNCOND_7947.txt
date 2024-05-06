@@ -1,0 +1,1 @@
+0.9 Local-gov -0.6628237635469622 10th -1.3333333333333333 Married-civ-spouse Adm-clerical Husband White Male 0.0 0.0 0.0 United-States <=50K

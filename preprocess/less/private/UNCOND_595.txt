@@ -1,0 +1,1 @@
+-0.3 Self-emp-not-inc 0.2587069026533934 HS-grad -0.3333333333333333 Never-married Sales Not-in-family Black Male 0.0 0.0 0.0 nan <=50K

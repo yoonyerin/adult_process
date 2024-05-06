@@ -1,0 +1,1 @@
+0.6 Self-emp-not-inc -1.0913220336160343 Bachelors 1.0 Widowed Sales Unmarried White Female 0.0 0.0 0.0 United-States <=50K

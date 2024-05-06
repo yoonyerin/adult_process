@@ -1,0 +1,1 @@
+1.2 Private -0.5524745714725855 Assoc-voc 0.3333333333333333 Divorced Adm-clerical Not-in-family Black Female 0.0 0.0 -1.6 United-States <=50K

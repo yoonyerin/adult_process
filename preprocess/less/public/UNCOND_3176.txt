@@ -1,0 +1,1 @@
+1.7 Self-emp-not-inc 2.631980614781229 Some-college 0.0 Separated Sales Unmarried Black Male 0.0 1816.0 -7.6 United-States <=50K

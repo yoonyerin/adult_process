@@ -1,0 +1,1 @@
+0.0 Private -0.6877547536669956 Some-college 0.0 Divorced Sales Not-in-family White Female 0.0 0.0 1.0 United-States <=50K

@@ -1,0 +1,1 @@
+0.75 Private -0.0696094228151034 Some-college 0.0 Never-married Exec-managerial Not-in-family White Female 0.0 0.0 2.0 United-States <=50K

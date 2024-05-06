@@ -1,0 +1,1 @@
+-0.4 Private -0.4133140147304347 HS-grad -0.3333333333333333 Married-spouse-absent Machine-op-inspct Not-in-family White Female 0.0 0.0 -0.4 El-Salvador <=50K

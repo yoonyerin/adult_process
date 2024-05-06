@@ -1,0 +1,1 @@
+1.15 nan -0.3074613940203928 Bachelors 1.0 Married-civ-spouse nan Husband Asian-Pac-Islander Male 0.0 2163.0 -3.0 South <=50K

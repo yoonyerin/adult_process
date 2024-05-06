@@ -1,0 +1,1 @@
+0.25 Local-gov 1.3081983321051032 Assoc-voc 0.3333333333333333 Divorced Prof-specialty Not-in-family White Female 0.0 0.0 -0.8 United-States <=50K

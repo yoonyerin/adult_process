@@ -1,0 +1,1 @@
+0.95 Self-emp-not-inc -0.7774946603215048 Assoc-acdm 0.6666666666666666 Married-civ-spouse Farming-fishing Wife White Female 0.0 0.0 0.0 United-States <=50K

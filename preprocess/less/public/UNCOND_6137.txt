@@ -1,0 +1,1 @@
+1.25 Self-emp-not-inc 0.7233026483972638 HS-grad -0.3333333333333333 Married-civ-spouse Exec-managerial Husband White Male 0.0 0.0 4.0 Ecuador <=50K

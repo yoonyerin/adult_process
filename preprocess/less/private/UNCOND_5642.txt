@@ -1,0 +1,1 @@
+-0.3 Private -0.1653197770033682 HS-grad -0.3333333333333333 Married-civ-spouse Adm-clerical Husband White Male 0.0 0.0 0.0 United-States <=50K

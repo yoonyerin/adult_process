@@ -1,0 +1,1 @@
+-0.4 Local-gov -0.5112226926968186 Assoc-voc 0.3333333333333333 Divorced Protective-serv Unmarried White Male 0.0 0.0 3.2 United-States <=50K

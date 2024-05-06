@@ -1,0 +1,1 @@
+0.05 State-gov 1.5543023444623474 Some-college 0.0 Married-civ-spouse Transport-moving Husband Black Male 0.0 0.0 5.0 United-States <=50K

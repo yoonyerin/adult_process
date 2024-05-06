@@ -1,0 +1,1 @@
+1.1 Self-emp-not-inc -1.2098233430342695 7th-8th -2.0 Married-civ-spouse Farming-fishing Husband White Male 0.0 0.0 6.0 United-States <=50K

@@ -1,0 +1,1 @@
+0.7 nan -0.9061132553094932 Assoc-voc 0.3333333333333333 Married-civ-spouse nan Husband White Male 0.0 0.0 2.0 United-States >50K

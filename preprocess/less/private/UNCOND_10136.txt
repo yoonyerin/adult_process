@@ -1,0 +1,1 @@
+0.3 Self-emp-not-inc 1.3732570581598198 7th-8th -2.0 Married-civ-spouse Farming-fishing Husband White Male 4508.0 0.0 0.0 Cuba <=50K

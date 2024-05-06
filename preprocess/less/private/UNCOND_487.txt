@@ -1,0 +1,1 @@
+0.75 Self-emp-not-inc 0.8737879033903315 HS-grad -0.3333333333333333 Never-married Prof-specialty Not-in-family White Male 0.0 0.0 2.0 United-States <=50K

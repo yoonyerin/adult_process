@@ -1,0 +1,1 @@
+-0.7 nan -1.0213254060445578 Assoc-voc 0.3333333333333333 Never-married nan Not-in-family Amer-Indian-Eskimo Female 0.0 0.0 -2.0 United-States <=50K

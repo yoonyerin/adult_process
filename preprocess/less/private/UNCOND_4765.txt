@@ -1,0 +1,1 @@
+-0.2 Federal-gov -0.4033382878888181 Some-college 0.0 Never-married Exec-managerial Not-in-family White Male 0.0 0.0 2.0 United-States <=50K

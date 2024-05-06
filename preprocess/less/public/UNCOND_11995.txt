@@ -1,0 +1,1 @@
+0.7 Private -1.251882939258815 Some-college 0.0 Divorced Priv-house-serv Unmarried Amer-Indian-Eskimo Female 0.0 0.0 -1.0 United-States <=50K

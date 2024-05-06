@@ -1,0 +1,1 @@
+-0.3 Local-gov -0.4348142874391609 7th-8th -2.0 Married-civ-spouse Farming-fishing Husband White Male 0.0 0.0 0.0 United-States <=50K

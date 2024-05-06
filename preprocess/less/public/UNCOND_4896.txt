@@ -1,0 +1,1 @@
+-0.75 Self-emp-inc 1.6427265876435884 Bachelors 1.0 Never-married Adm-clerical Own-child White Male 0.0 0.0 0.0 South <=50K

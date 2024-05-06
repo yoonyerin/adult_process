@@ -1,0 +1,1 @@
+0.75 Private -0.1628882976730243 Some-college 0.0 Divorced Tech-support Not-in-family White Female 0.0 0.0 -0.8 United-States <=50K

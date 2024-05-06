@@ -1,0 +1,1 @@
+0.4 Private -0.5338637622146447 Prof-school 1.6666666666666667 Married-civ-spouse Prof-specialty Husband White Male 0.0 0.0 4.0 United-States >50K

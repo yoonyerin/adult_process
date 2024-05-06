@@ -1,0 +1,1 @@
+-0.2 State-gov -1.229483352277222 HS-grad -0.3333333333333333 Divorced Prof-specialty Unmarried White Female 0.0 0.0 0.0 United-States <=50K

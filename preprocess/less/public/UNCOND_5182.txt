@@ -1,0 +1,1 @@
+0.3 Self-emp-inc -0.0202304076475021 HS-grad -0.3333333333333333 Never-married Exec-managerial Not-in-family Black Male 0.0 0.0 3.0 United-States <=50K

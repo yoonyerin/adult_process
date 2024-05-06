@@ -1,0 +1,1 @@
+1.25 Self-emp-not-inc -0.0787940861759575 7th-8th -2.0 Married-civ-spouse Sales Husband White Male 0.0 0.0 -7.0 United-States <=50K

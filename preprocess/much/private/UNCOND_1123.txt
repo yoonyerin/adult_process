@@ -1,0 +1,1 @@
+0.95 Self-emp-not-inc -0.1243426886998663 HS-grad -0.3333333333333333 Widowed Adm-clerical Unmarried White Female 99999.0 0.0 0.0 United-States >50K

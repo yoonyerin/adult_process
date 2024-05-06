@@ -1,0 +1,1 @@
+1.65 Self-emp-not-inc -0.4471215698030252 Masters 1.3333333333333333 Married-civ-spouse Exec-managerial Husband White Male 0.0 2246.0 -6.4 United-States >50K

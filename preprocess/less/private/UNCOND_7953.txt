@@ -1,0 +1,1 @@
+1.55 nan 1.5588572047147384 5th-6th -2.333333333333333 Married-spouse-absent nan Not-in-family White Male 0.0 0.0 -2.0 United-States <=50K

@@ -1,0 +1,1 @@
+0.95 Self-emp-not-inc 0.0994783144518971 Assoc-voc 0.3333333333333333 Married-spouse-absent Sales Not-in-family White Male 0.0 0.0 1.2 United-States <=50K

@@ -1,0 +1,1 @@
+1.2 Self-emp-not-inc -0.065504219699146 Prof-school 1.6666666666666667 Never-married Prof-specialty Not-in-family White Female 0.0 0.0 -2.0 Philippines <=50K

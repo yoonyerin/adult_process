@@ -1,0 +1,1 @@
+-0.45 Local-gov 0.3401198252998755 Assoc-voc 0.3333333333333333 Married-civ-spouse Protective-serv Husband Black Male 0.0 0.0 1.2 United-States <=50K

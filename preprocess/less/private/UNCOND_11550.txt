@@ -1,0 +1,1 @@
+-0.3 Local-gov -1.2075833843361103 Bachelors 1.0 Never-married Prof-specialty Not-in-family White Female 0.0 0.0 2.0 United-States <=50K

@@ -1,0 +1,1 @@
+0.45 Self-emp-inc 1.249642980560656 Bachelors 1.0 Married-civ-spouse Sales Husband White Male 0.0 1902.0 0.4 nan >50K

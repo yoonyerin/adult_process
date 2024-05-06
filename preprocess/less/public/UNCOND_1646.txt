@@ -1,0 +1,1 @@
+1.6 nan 0.1785846625281556 Prof-school 1.6666666666666667 Married-civ-spouse nan Wife White Female 0.0 0.0 -3.0 nan <=50K

@@ -1,0 +1,1 @@
+1.1 Federal-gov 0.1878192877930578 Assoc-acdm 0.6666666666666666 Married-civ-spouse Farming-fishing Husband Black Male 0.0 0.0 0.0 United-States <=50K

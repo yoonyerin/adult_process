@@ -1,0 +1,1 @@
+-0.1 Private -0.5045277975543648 Assoc-acdm 0.6666666666666666 Married-civ-spouse Machine-op-inspct Husband White Male 0.0 0.0 1.0 United-States <=50K

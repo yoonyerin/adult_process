@@ -1,0 +1,1 @@
+0.1 Private -0.1822235545396635 Some-college 0.0 Divorced Adm-clerical Unmarried White Female 0.0 0.0 -0.4 United-States <=50K

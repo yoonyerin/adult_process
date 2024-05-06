@@ -1,0 +1,1 @@
+1.35 State-gov -0.2853199435430484 Bachelors 1.0 Married-civ-spouse Prof-specialty Husband White Male 0.0 0.0 0.0 United-States >50K

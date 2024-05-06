@@ -1,0 +1,1 @@
+0.65 State-gov -1.278171227772157 Some-college 0.0 Married-civ-spouse Adm-clerical Husband White Male 0.0 0.0 0.0 United-States

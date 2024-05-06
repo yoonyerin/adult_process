@@ -1,0 +1,1 @@
+0.35 Self-emp-not-inc -0.6092979103433632 Masters 1.3333333333333333 Married-civ-spouse Farming-fishing Husband White Male 0.0 0.0 0.0 United-States >50K

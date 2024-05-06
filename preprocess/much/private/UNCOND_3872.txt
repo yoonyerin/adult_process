@@ -1,0 +1,1 @@
+0.65 Self-emp-not-inc -0.7296061752913403 HS-grad -0.3333333333333333 Married-civ-spouse Other-service Wife White Female 15024.0 0.0 -4.0 United-States >50K

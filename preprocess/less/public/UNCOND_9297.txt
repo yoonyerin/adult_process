@@ -1,0 +1,1 @@
+-0.5 State-gov -0.1318369743070908 Some-college 0.0 Never-married Other-service Not-in-family Asian-Pac-Islander Male 0.0 0.0 2.0 South <=50K

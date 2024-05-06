@@ -1,0 +1,1 @@
+-0.4 Private -1.2197824159078705 Some-college 0.0 Never-married Craft-repair Not-in-family White Male 2202.0 0.0 1.0 United-States <=50K

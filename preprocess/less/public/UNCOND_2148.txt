@@ -1,0 +1,1 @@
+-0.7 Self-emp-inc 0.1959963860889405 Bachelors 1.0 Never-married Adm-clerical Own-child White Female 0.0 0.0 -1.0 United-States <=50K

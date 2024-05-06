@@ -1,0 +1,1 @@
+-0.7 Self-emp-inc 0.3030814004321704 Some-college 0.0 Never-married Prof-specialty Not-in-family White Male 0.0 0.0 2.0 United-States <=50K

@@ -1,0 +1,1 @@
+-0.2 Private -1.1446563661874487 Some-college 0.0 Never-married Prof-specialty Not-in-family White Female 3674.0 0.0 -4.8 United-States <=50K

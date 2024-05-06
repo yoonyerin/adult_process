@@ -1,0 +1,1 @@
+1.65 Self-emp-not-inc 1.4771361836599592 HS-grad -0.3333333333333333 Married-civ-spouse Tech-support Wife White Female 0.0 0.0 -3.2 United-States <=50K

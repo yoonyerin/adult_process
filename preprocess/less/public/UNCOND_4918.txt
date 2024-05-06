@@ -1,0 +1,1 @@
+-0.75 nan 0.4208582622417073 Some-college 0.0 Divorced nan Own-child White Male 0.0 1602.0 -3.0 United-States <=50K

@@ -1,0 +1,1 @@
+0.2 Local-gov -0.8623716083153262 Bachelors 1.0 Divorced Prof-specialty Unmarried White Male 0.0 0.0 5.0 United-States <=50K

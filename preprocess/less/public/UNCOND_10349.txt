@@ -1,0 +1,1 @@
+-0.35 Private 2.586157221785056 Assoc-voc 0.3333333333333333 Married-civ-spouse Handlers-cleaners Husband White Male 0.0 0.0 0.0 Mexico <=50K

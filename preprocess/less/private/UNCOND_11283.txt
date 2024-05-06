@@ -1,0 +1,1 @@
+1.1 Local-gov 0.2296040935453383 Some-college 0.0 Married-civ-spouse Prof-specialty Wife White Female 0.0 0.0 -3.2 Canada <=50K

@@ -1,0 +1,1 @@
+-0.5 Private -0.1801001736176165 Some-college 0.0 Married-civ-spouse Adm-clerical Wife Black Female 0.0 2377.0 -4.0 United-States <=50K

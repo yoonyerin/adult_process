@@ -1,0 +1,1 @@
+1.85 Self-emp-not-inc -1.1060358143582183 12th -0.6666666666666666 Married-civ-spouse Other-service Husband White Male 1409.0 0.0 -4.0 Canada <=50K

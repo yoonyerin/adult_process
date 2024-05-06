@@ -1,0 +1,1 @@
+-0.3 Self-emp-not-inc 1.7621605192707228 7th-8th -2.0 Married-civ-spouse Prof-specialty Husband White Male 0.0 0.0 4.0 United-States <=50K

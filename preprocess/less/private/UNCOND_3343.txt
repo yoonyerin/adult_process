@@ -1,0 +1,1 @@
+-0.5 nan -0.3811468755074256 HS-grad -0.3333333333333333 Never-married nan Unmarried White Female 0.0 0.0 0.0 nan <=50K

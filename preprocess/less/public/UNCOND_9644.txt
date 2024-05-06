@@ -1,0 +1,1 @@
+0.1 State-gov -0.5440226827044379 HS-grad -0.3333333333333333 Married-civ-spouse Protective-serv Other-relative White Female 0.0 0.0 0.0 United-States <=50K

@@ -1,0 +1,1 @@
+-0.55 Federal-gov -0.87514520178364 Some-college 0.0 Married-civ-spouse Exec-managerial Husband White Male 0.0 0.0 -1.6 United-States <=50K

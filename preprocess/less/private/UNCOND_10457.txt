@@ -1,0 +1,1 @@
+-0.95 State-gov 0.789177418884767 HS-grad -0.3333333333333333 Never-married Adm-clerical Own-child Black Male 0.0 0.0 -5.0 United-States <=50K

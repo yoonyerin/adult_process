@@ -1,0 +1,1 @@
+0.6 Private -0.0753800227326663 HS-grad -0.3333333333333333 Married-civ-spouse Adm-clerical Other-relative White Female 0.0 0.0 0.0 nan <=50K

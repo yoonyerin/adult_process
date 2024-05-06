@@ -1,0 +1,1 @@
+-0.05 Private -0.4143715416994541 Some-college 0.0 Never-married Machine-op-inspct Unmarried White Male 0.0 0.0 1.0 United-States <=50K

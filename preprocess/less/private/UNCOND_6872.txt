@@ -1,0 +1,1 @@
+-0.15 Private -0.0717577846891745 Some-college 0.0 Married-civ-spouse Sales Wife White Female 4386.0 0.0 -4.0 United-States <=50K

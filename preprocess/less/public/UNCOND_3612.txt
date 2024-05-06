@@ -1,0 +1,1 @@
+0.5 Self-emp-not-inc 0.5881473709629741 Masters 1.3333333333333333 Never-married Exec-managerial Not-in-family Black Male 0.0 0.0 -3.0 United-States <=50K

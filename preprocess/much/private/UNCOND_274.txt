@@ -1,0 +1,1 @@
+0.45 Local-gov -0.9775337971463426 Assoc-voc 0.3333333333333333 Married-civ-spouse Exec-managerial Husband White Male 0.0 0.0 0.0 United-States >50K

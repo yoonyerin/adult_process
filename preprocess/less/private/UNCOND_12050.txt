@@ -1,0 +1,1 @@
+1.35 Self-emp-not-inc 1.4536207808212904 Assoc-voc 0.3333333333333333 Married-civ-spouse Farming-fishing Husband White Male 0.0 0.0 3.0 United-States <=50K

@@ -1,0 +1,1 @@
+0.45 Federal-gov -0.4850842898956212 Assoc-voc 0.3333333333333333 Separated Tech-support Not-in-family Other Female 0.0 0.0 -2.0 United-States <=50K

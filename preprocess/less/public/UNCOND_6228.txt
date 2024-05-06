@@ -1,0 +1,1 @@
+-0.2 Local-gov -1.1491446105677754 HS-grad -0.3333333333333333 Married-civ-spouse Protective-serv Husband White Male 0.0 0.0 3.2 United-States <=50K

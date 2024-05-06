@@ -1,0 +1,1 @@
+0.2 Private -0.256725080459483 HS-grad -0.3333333333333333 Married-civ-spouse Sales Husband Amer-Indian-Eskimo Male 0.0 0.0 2.0 United-States <=50K

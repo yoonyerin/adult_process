@@ -1,0 +1,1 @@
+1.0 Self-emp-not-inc 0.0533634770154423 HS-grad -0.3333333333333333 Married-civ-spouse Craft-repair Husband White Male 0.0 0.0 2.0 United-States >50K

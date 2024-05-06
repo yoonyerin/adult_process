@@ -1,0 +1,1 @@
+1.6 State-gov -0.1203707173280373 Some-college 0.0 Married-civ-spouse Transport-moving Husband White Male 0.0 0.0 -4.8 United-States <=50K

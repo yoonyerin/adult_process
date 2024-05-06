@@ -1,0 +1,1 @@
+0.45 Without-pay -0.2992260068364539 HS-grad -0.3333333333333333 Married-civ-spouse Machine-op-inspct Wife White Female 0.0 0.0 -3.0 United-States <=50K

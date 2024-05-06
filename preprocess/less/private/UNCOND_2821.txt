@@ -1,0 +1,1 @@
+-0.4 Local-gov 0.2258069888376779 Some-college 0.0 Never-married Adm-clerical Not-in-family Other Male 0.0 0.0 0.0 Ecuador <=50K

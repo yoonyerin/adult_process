@@ -1,0 +1,1 @@
+-0.6 nan -1.2266022158104446 Some-college 0.0 Divorced nan Unmarried White Female 0.0 0.0 0.0 Germany <=50K

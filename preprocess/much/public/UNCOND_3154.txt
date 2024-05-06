@@ -1,0 +1,1 @@
+-0.25 State-gov -0.2575494518762776 Bachelors 1.0 Married-civ-spouse Exec-managerial Wife White Female 0.0 0.0 3.0 United-States >50K

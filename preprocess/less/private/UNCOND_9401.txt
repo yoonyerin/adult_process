@@ -1,0 +1,1 @@
+1.4 nan -0.8233097263336706 Some-college 0.0 Widowed nan Not-in-family Asian-Pac-Islander Female 0.0 0.0 -6.8 United-States <=50K

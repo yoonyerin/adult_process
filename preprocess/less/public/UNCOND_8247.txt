@@ -1,0 +1,1 @@
+0.9 Self-emp-not-inc 0.2040735605767269 Assoc-voc 0.3333333333333333 Married-civ-spouse Sales Wife White Female 0.0 0.0 -2.0 United-States <=50K

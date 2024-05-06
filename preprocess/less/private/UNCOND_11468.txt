@@ -1,0 +1,1 @@
+-0.6 State-gov -0.1959714051369164 Bachelors 1.0 Married-spouse-absent Handlers-cleaners Not-in-family White Female 0.0 1719.0 -5.0 United-States <=50K

@@ -1,0 +1,1 @@
+0.8 Local-gov -1.311237681268033 HS-grad -0.3333333333333333 Married-civ-spouse Exec-managerial Husband Amer-Indian-Eskimo Male 0.0 0.0 1.6 United-States <=50K

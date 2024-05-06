@@ -1,0 +1,1 @@
+1.85 nan -1.207666654176191 10th -1.3333333333333333 Married-civ-spouse nan Husband Amer-Indian-Eskimo Male 1797.0 0.0 -2.0 United-States <=50K

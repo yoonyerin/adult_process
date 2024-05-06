@@ -1,0 +1,1 @@
+1.15 Private -1.143199143986044 HS-grad -0.3333333333333333 Married-spouse-absent Craft-repair Not-in-family White Male 0.0 1741.0 0.0 United-States <=50K

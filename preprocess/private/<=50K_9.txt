@@ -1,0 +1,1 @@
+1.05 Self-emp-not-inc 0.1381321742171594 Some-college 0.0 Married-civ-spouse Prof-specialty Husband White Male 0.0 0.0 1.0 United-States
