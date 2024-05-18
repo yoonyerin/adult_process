@@ -1,0 +1,1 @@
+age is 25,fnlwgt is 226802,educational-num is 7,capital-gain is 0,capital-loss is 0,hours-per-week is 40,workclass is Private,education is 11th,marital-status is Never-married,occupation is Machine-op-inspct,relationship is Own-child,race is Black,gender is Male,native-country is United-States

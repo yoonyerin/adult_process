@@ -1,0 +1,1 @@
+age is 28,fnlwgt is 336951,educational-num is 12,capital-gain is 0,capital-loss is 0,hours-per-week is 40,workclass is Local-gov,education is Assoc-acdm,marital-status is Married-civ-spouse,occupation is Protective-serv,relationship is Husband,race is White,gender is Male,native-country is United-States
